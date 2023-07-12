@@ -16,3 +16,14 @@ i will update this diary uncetainly.It depends on what the situation of daytime.
 ### Background Music
  - One Last Glimpse(Original Remix) - South Pole
  - Moments(Roald Velden Remix) - Yusuke teranishi
+
+ ---
+ ## 2023/07/10
+ ***dear diary,today i am gonna take the railway to come back to FuZhou,i think i have leanrt some course today,i know that humans all got the sin,but i was always be in traps of those man,just cause i was believe about them by myself,i wish i get the spirit of Juses,but the Juses means about suffering,the road of that is hard,i am tired about this,so what,i should still keep on it,go straight and walk along,if god promise that i will marry with the other one,i must appriciate about that,this is my life,right?just be yourselves.Yeah,but my dream is just to be at peace all the time.Is that hard?But i can't explain this,that's why i often sigh about my exprience.This fucking life.Maybe after i die,i will be released.I look forward about it on the future.***
+
+ ### Background Music
+ - Moments(Starlit Night Mix)
+ - Into The Time
+
+ ## 2023/07/12
+ ***dear diary,today i am move to the oppsite seat beside the XLH,this was really bad news for me,i am so doubt about i will be watched by it,and the seat is behind the XH,they will both monitor the others,i am so tired about that,chill for the every moment,it make me sick.but i have no right to contradict with it,he just like the beast to me,shit about this.***
