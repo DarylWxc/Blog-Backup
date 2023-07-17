@@ -27,3 +27,11 @@ i will update this diary uncetainly.It depends on what the situation of daytime.
 
  ## 2023/07/12
  ***dear diary,today i am move to the oppsite seat beside the XLH,this was really bad news for me,i am so doubt about i will be watched by it,and the seat is behind the XH,they will both monitor the others,i am so tired about that,chill for the every moment,it make me sick.but i have no right to contradict with it,he just like the beast to me,shit about this.***
+
+ ## 2023/07/17
+ ***dear diary,today is a new week,i don't know the plan of father at me,but i just know that he love us forever,there is one thing we can do is we must believe him,yeah.ok,today i ganna to make my plan for the learning of english,i wanna use the work time to improve my english level,right!If i don't prepare for my future,who cares about that?So just come on,do everything you can,and just be yourself.Face the challenge of life and overcome it.Fighting!!!***
+
+ ### Background Music
+  - Innocent Beauty
+  - Soleil
+  - Somewhere in this moment
