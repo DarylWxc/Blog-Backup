@@ -35,3 +35,11 @@ i will update this diary uncetainly.It depends on what the situation of daytime.
   - Innocent Beauty
   - Soleil
   - Somewhere in this moment
+
+  ## 2023/07/18
+  ***dear diary,this month is very expensive,i have spend much money in this month.but my plan is keep on going,i am proud of that.now i am start listening practice and i find one way to improve my hearing level what is listen to the IELTS exam module of listening,and listen it carefully.Today i talk about the feature of my company,i am not agree with what he said,the team leader's behaviour is not the good habit,but we can't change that,so just let it go.i just need to do what i should do.Be yourself.Fighting!***
+
+  ### Background Music
+  - 세렌디피티(情缘)
+  -  미래 (Future)
+  - 푸른꽃 (Blue Flower)
