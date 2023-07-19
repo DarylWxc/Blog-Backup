@@ -34,14 +34,16 @@ i will take a screenshot about the KDrama Beautiful time and record it according
 4. episode 12 19:21
 5. episode 17 36:58
 ## While You Were Sleeping
-1. episode 4
-2. episode 4
-3. episode 5
-4. episode 5
-5. episode 5
-6. episode 6
-7. episode 7
-8. episode 9
-9. episode 10
-10. episode 10
-11. episode 11
+1. episode 4 07:03
+2. episode 4 41:50
+3. episode 5 01:36
+4. episode 5 25:02
+5. episode 5 27:19
+6. episode 5 51:19
+7. episode 7 20:14
+8. episode 9 44:05
+9. episode 9 48:44
+10. episode 10 04:44
+11. episode 10 27:57
+12. episode 11 08:52
+13. episode 11 22:47
