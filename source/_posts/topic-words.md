@@ -34,7 +34,29 @@ i will record the related words about the different topic in this page.Synonyms 
  - departure lounge
 ## train station
 ## terminal building
-## scene
+## landscape
+ - nature
+ - scenery
+ - terrain
+ - mountain
+ - hill
+ - valley
+ - river
+ - lake
+ - forest
+ - meadow
+ - desert
+ - beach
+ - cliff
+ - watefall
+ - canyon
+ - coast
+ - island
+ - garden
+ - rural
+ - breeze
+ - sunlight
+ - polar lights
 ## bank
  - account
  - deposit
@@ -61,6 +83,28 @@ i will record the related words about the different topic in this page.Synonyms 
 ## training
 ## club
 ## library
+ - books
+ - catalog
+ - librarian
+ - borrow
+ - return
+ - reading
+ - study
+ - research
+ - reference
+ - periodicals
+ - database
+ - digital library
+ - archives
+ - collection
+ - shelf
+ - reading room
+ - quiet zone
+ - late fee
+ - library card
+ - study room
+ - seat
+ - classification
 ## thesis homework discuss
 ## review and prepare for class
 ## encyclopedia

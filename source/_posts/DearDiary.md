@@ -43,3 +43,9 @@ i will update this diary uncetainly.It depends on what the situation of daytime.
   - 세렌디피티(情缘)
   -  미래 (Future)
   - 푸른꽃 (Blue Flower)
+
+  ## 2023/07/20
+  ***dear diary,yesterday i was going to party with the others,we ate,talked and laughed,that's a great exprience for us.And we came back until after 11:00pm.Today i will prepare for the thought sharing tomorrow,and i should practice about listening.I can feel my target now.Just do it.God bless me.I just wanna strive to my life,and my life is honor you all the time.Cause our every step with your grace.***
+
+  ### Background Music
+  - Summer Peace(Roald Velden Remix)
