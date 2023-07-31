@@ -47,3 +47,10 @@ i will take a screenshot about the KDrama Beautiful time and record it according
 11. episode 10 27:57
 12. episode 11 08:52
 13. episode 11 22:47
+14. episode 11 P11-6
+15. episode 11 P11-7
+16. episode 12 P12-1
+17. episode 12 P12-6
+18. episode 13 P13-1
+19. episode 13 P13-5
+20. episode 14

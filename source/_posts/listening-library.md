@@ -1,0 +1,738 @@
+---
+title: listening-library
+date: 2023-07-26 20:05:29
+tags:
+ - learning
+ - record
+categories:
+ - Personality
+---
+# High Frequency Words For Listening
+## 工业
+ - engine room
+ - steam engine
+ - industry
+ - incineration plants
+ - landfill
+ - carbon dioxide emission
+ - greenhouse gas
+ - greenhouse effect
+ - fuel
+ - coal
+ - firewood
+ - fossil fuels
+ - carbon fuel
+ - recycling
+ - household waste
+ - soil conditioner
+ - recycling containers
+ - raw materials
+ - virgin material
+ - drop-off sites
+ - bring banks
+ - toughened glass
+ - plastic bags
+ - water filtration
+ - fiberglass manufacture
+ - crushed glass
+ - polystyrene cups
+
+ ## 环境
+ - temperature
+ - humid adjective
+ - humidity
+ - landscape
+ - vegetation
+ - climate change
+ - windy adjective
+ - inland adjective
+ - shady adjective
+ - evaporate verb
+ - leaf
+ - gust
+ - canyon
+ - ocean currents
+ - geographical features
+ - physical features
+ - dome
+ - census
+ - impact of tourism
+ - surface
+ - Earch
+ - Planet
+ - desert
+ - monoliths
+ - spires
+ - hectares
+ - caves
+ - drought
+ - rainwater
+ - wildlife
+ - shallow-rooted species
+ - fossil
+ - territory
+ - outcrop
+ - plain
+ - plateau
+ - cliff
+ - landscape
+ - erode
+ - sandstone
+ 
+ ## 各种人群
+ - guest
+ - speaker
+ - family
+ - adults
+ - senior citizens/seniors
+ - children
+ - teenagers
+
+## 各种货币
+ - cash
+ - cheque
+ - credit card
+ - debt card
+ - currency
+ - Canadian dollars
+ - Australian dollars
+ - pounds
+ - Japanese Yen
+ - MasterCard
+ - American Express
+ - Bank statement
+ - annual fee
+ - joining fee
+ - discount
+ - 50%off
+ - in advance
+ - dollar
+ - euro
+ - joint account
+ - deposit account
+ - instant account
+ - select account
+ - check
+ - part exchange
+ - opening sum
+ - identity security
+ - Transcation
+ - deposit
+ - Payment
+ - cash
+ - check
+ - credit card
+ - VISA
+ - MASTER
+ - American Express
+ - Currency
+ - foreign currency
+ - exchange rate
+ - withdraw
+ - overdraft/overdraw
+ - balance
+ - interest
+ - interest rate
+ - teller
+ - transfer
+ - loan
+
+## 人类学
+ - dwellings
+ - dweller
+ - inhabitant
+ - craftsman
+ - carpenter
+ - merchant
+ - money-lender
+ - water wheel
+ - water mill
+ - quarry
+ - cottage
+ - stables
+ - iron forge
+ - furnace
+ - grinding shop
+ - aboriginal adjective
+ - density
+ - myths and legends
+ - dynamic
+
+## 商业
+ - overheads
+ - outlay
+ - investment
+ - capital
+ - strike
+ - takeover
+ - issue
+ - stock
+ - share
+ - stock market
+ - market share
+ - outlet
+ - chain
+ - retail
+ - wholesale adverb
+ - distributer
+ - marketing
+ - campaign
+ - advertising
+ - sales
+ - profit
+ - product
+ - production
+ - manufacture
+ - manufacturer
+ - storehouse
+ - warehouse
+ - competition
+ - cooperation
+ - interest rate
+ - training
+ - favorable terms
+ - innovation
+ - outdated
+ - machinery
+ - management team
+ - management layers
+ - employer
+ - employee
+ - staff
+ - applicant
+ - corporate
+ - organization
+ - corporate crime
+ - embezzlement
+ - fraud
+ - import
+ - export
+
+## 艺术
+ - exhibition
+ - festival
+ - Performance
+ - demonstration
+ - workshop
+ - art
+ - craft
+ - drama
+ - music
+ - live
+ - guitar
+ - piano
+ - pianist
+ - drum
+ - concert
+ - Participant
+ - studio theatre
+
+## 运动
+ - judo
+ - yoga
+ - cycling
+ - jogging
+ - aerobics
+ - ballet
+ - fitness centre
+ - keep-fit studio
+ - indoor stadium
+ - tennis/squash court
+
+## 工业
+ - engine room
+ - steam engine
+ - industry
+ - incineration plants
+ - landfill sites
+ - carbon dioxide emission
+ - greenhouse effect
+ - greenhouse gas
+ - fuel
+ - firewood
+ - fossil fuels
+ - carbon fuels
+ - recycling
+ - household waste
+ - soil conditioner
+ - recycling containers
+ - raw materials
+ - virgin materials
+ - drop-off sites
+ - bring banks
+ - toughened glass
+ - plastic bags
+ - water filtration
+ - fiberglass manufacture
+ - crushed glass
+ - polystyrene cups
+
+## 农业
+ - produce
+ - livestock
+ - poultry
+ - fishstock
+ - cattle
+ - herd
+ - crops
+ - cereal crops
+ - wheat
+ - barley
+ - plough
+ - cultivation
+ - husbandry
+ - animal husbandry
+ - irrigation
+ - pot
+ - pottery
+ - clay
+ - stone age
+ - Neolithic
+ - grain
+ - farmland
+ - hunter-gatherer
+
+## 汽车
+ - CAR
+ - make
+ - model
+ - manufacturer
+ - engine size
+ - gear change
+ - manual
+ - automatic
+ - top speed
+ - mileage
+ - instrument panel
+ - frame
+ - wheel
+ - steering wheel
+ - car bumper
+ - insurance company
+ - Rolls-Royce
+## 作业
+ - assignment
+ - written work
+ - journal
+ - essay
+ - report verb
+ - case study
+ - paper
+ - dissertation
+ - experiment
+ - research
+ - heading
+ - subheading
+ - bullet points
+ - deadline
+ - due date/time
+ - extension
+ - submit verb
+ - hand in
+ - preparation work
+ - booklist
+
+## 生物
+ - species
+ - sub-species
+ - gene pool
+ - ancestor
+ - descend
+ - breed
+ - rear
+ - extinction
+ - endanger
+ - threaten
+ - eradicate
+ - infest
+ - introduced animals
+ - wildlife reserve
+ - nature reserve
+ - sanctuary
+ - refuge
+ - habitat
+ - prohibit
+ - quarantine service
+ - creature
+ - parasite
+ - mite(s)
+ - pest
+ - insect
+ - honey bee
+ - reptile
+ - snake
+ - dinosaur
+ - mammal
+ - lion
+ - whale
+ - dolphin
+ - shark
+ - kiwi
+ - emus
+ - ostrich
+ - penguin
+ - pollinate
+ - flora
+ - sting
+ - sense of smell
+ - vision
+ - eyesight
+ - skeletion
+ - limbs
+ - hoof
+ - horn
+ - hair
+ - fur
+ - skin
+ - mane
+ - pouch
+ - scale
+ - tail
+ - fin(s)
+ - beak
+ - feather
+ - wings
+ - flightless
+ - chick
+ - hatch
+ - hide
+ - pellet
+ - leather
+
+## 物理化学
+ - ocean floor
+ - landsat
+ - satellite
+ - distortion
+ - aerial
+ - carbon dioxide
+ - ozone
+ - metal
+ - iron
+ - mineral
+ - nutrition
+ - salinity
+ - carbohudrate
+ - amino acid
+ - protein
+ - vitamin
+ - cholesterol
+ - bitterness
+ - sourness
+ - kilocalorie
+ - metabolism
+ - photosynthesis
+ - fossil
+ - toxin
+ - MSG
+ - digest
+ - indigestible
+
+## 校园设施
+ - cafeteria
+ - cafe
+ - restaurant
+ - snack bar
+ - salad bar
+ - Dining Hall
+ - Main Hall
+ - Garden Hall
+ - Great Hall
+ - Town Hall City
+
+## 学科
+ - Sciences
+ - mathematics
+ - statistics
+ - computer science
+ - biology
+ - chemistry
+ - engineering
+ - geography
+ - architecture
+ - Business
+ - accounting
+ - banking
+ - finance
+ - economics
+ - literature
+ - history
+ - journalism
+ - law
+ - linguistics
+ - politics
+ - psychology
+ - philosophy
+ - anthropology
+ - archaeology
+ - curriculum
+ - extracurricular adjective
+ - compulsory course
+ - optional course
+ - specialized course
+ - general course
+ - core programme
+ - beginner course
+ - foundation course
+ - basic course
+ - elementary course
+ - primary course
+ - secondary course
+ - intermediate course
+ - advanced course
+ - intensive course
+ - full-time course
+ - part-time course
+ - night class
+ - weekend class
+ - semester
+ - term
+ - module
+ - session
+ - duration
+ - fixed
+ - academic year
+ - school year
+ - lecture
+ - tutorial
+ - seminar
+ - workshop
+ - two-dimensional
+
+## 旅游场景
+ - transport
+ - tube station
+ - underground
+ - bus route
+ - neighbouring
+ - pets
+ - adults
+ - old people
+ - no children
+ - non-smoking
+ - smoke-free
+ - traveling/jouney/tour/trip
+ - travel agency
+ - travel guide/guided tour
+ - tourist
+ - traveler
+ - backpacker
+ - passenger
+ - B&B
+ - half board
+ - full board
+ - youth hostel
+ - holiday house
+ - motel
+ - five-star hotel
+ - cottage
+ - inn
+ - camping
+ - public transport
+ - airplane
+ - plane
+ - passport
+ - visa
+ - terminal
+ - gate
+ - first/business/economy class
+ - single trip
+ - return trip
+ - departure time
+ - arrival time
+ - check in
+ - check out
+ - duty-free shop
+ - refund
+ - car
+ - look-up
+ - landmark
+ - landscape
+ - booklet
+ - guidebook
+ - brochure
+ - information
+ - seascape scenery
+ - garden
+ - bridge
+ - park
+ - tower
+ - Driving license
+ - Passport
+ - dates
+ - timetable
+ - reserve
+ - book verb
+ - make a reservation
+ - confirm a reservation
+ - cancel one's reservation
+ - Clubhouse
+ 
+## 户外场景
+ - hiking
+ - walk
+ - excursion
+ - bush walk
+ - rock climbing/cliff climbing
+ - horse riding
+ - cycling
+ - picnic
+ - barbeque
+ - camping
+ - swimming verb
+ - diving
+ - scuba diving
+ - surfing
+ - water skiing
+ - ice-skiing
+ - skating
+ - fishing
+ - expense
+ - fare
+ - ticket or charge
+ - fee
+ - reserve
+ - book in advance
+ - deposit
+ - Refund
+ - one-way/single ticket
+ - round trip/return ticket
+ - insurance
+ - souvenir
+## 租房
+ - landlord
+ - landlady
+ - tenant
+ - roommate
+ - student adviser
+ - coordinator
+ - agency
+ - estate agent
+ - real estate agency
+ - on-campus accommodation
+ - off-campus accommodation
+ - en-suite
+ - city centre
+ - downtown
+ - urban
+ - countryside
+ - outskirt
+ - uptown
+ - suburban
+ - community
+ - neighbourhood
+ - rent
+ - rental price
+ - dormitory
+ - apartment
+ - hall of residence
+ - host family
+ - homestay
+ - house
+ - villa
+ - cottage
+ - single studio
+ - pay for contract/lease
+ - on a weekly/monthly/quarterly
+ - basis
+ - deposit/bond
+ - gas bill
+ - electricity
+ - water bill
+ - internet bill
+ - heating bill
+ - telephone bill
+ - Room(area)
+ - shared kitch/bathroom
+ - toilet
+ - dining room
+ - study
+ - foyer
+ - corridor
+ - garage
+ - yard
+ - garden
+ - laundry room
+ - bedroom
+ - single room
+ - double room
+ - twin room
+ - triple room
+ - Length of stay
+ - week/month/year
+ - Diet
+ - vegetarian
+ - seafood
+ - no red meat
+ - Application form
+
+## 校园生活
+ - ID/Union/student cardId
+ - mature students
+ - adult students
+ - overseas students
+ - mentor
+ - student adviser
+ - course convenor
+ - critical thinking
+ - think critically
+ - international students
+ - 1st 2nd 3rd 4th
+ - graduate
+ - undergraduate
+ - postgraduate
+ - lecturer
+ - professor
+ - associate professor
+ - TA
+ - tutor
+ - independent thinking
+ - think independently
+ - advanced thinking
+ - logical
+ - time management
+ - notes
+ - note-takingn
+ - speed reading
+ - extensive reading
+ - reference materials
+ - writing
+ - organize
+ - clear structure
+ - outline
+ - plan
+ - revision
+ - lifestyle
+ - cause and effect
+ - technology
+ - pattern
+ - monitor
+ - interact
+ - migration
+ - traffic density
+ - population density
+
+ ## 房屋设施
+ - Furniture
+ - well/half/un-furnished
+ - cupboard
+ - wardrobe
+ - bookshelf
+ - Facilities
+ - television
+ - stereo
+ - couch/sofa
+ - curtain
+ - fridge
+ - air-conditioner
+ - heater
+ - radiator
+ - central heating
+ - furnace
+ - cooker
+ - oven
+ - stove
+ - toaster
+ - washing machine
+ - vacuum cleaner
+ - basin

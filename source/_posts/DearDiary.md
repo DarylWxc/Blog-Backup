@@ -49,3 +49,23 @@ i will update this diary uncetainly.It depends on what the situation of daytime.
 
   ### Background Music
   - Summer Peace(Roald Velden Remix)
+
+  ## 2023/07/21
+  ***dear diary,today this fuck leader had got the work for me,this man is insane all the time,i'm really not regrad it as a normal guy.There are not fortunate day recent.It's gonna feel doult about this.I have no idea.And i have to worry about the acommadation.Cause the lease is going to expire.I know,shit happens.Hope that tommorrow will be better.***
+
+  ### Background Music
+  - August Peace
+
+  ## 2023/07/24
+  ***dear diary,today i'm strive to developing big screen fot the task of son of bitch!!!That insane one just like animal always make everyone feel bad.It is very disgusting.There's another one thing is just i need to relocated my house.It will be one tired thing for me.God bless me.I just want to have peace life and upgrow my english level fot the immigration.Come on!!!I can do it.***
+
+ ### Background Music
+ - Moments(Roald Velden Remix)
+
+ ## 2023/07/31
+
+***daer diary,after typhoon,FuJian was lost a lot,the people is suffering,thank god,i didn't harmed by this disaster,i was appreciate that.But the life is still keep on going.Sun is rise,we must face those fucking things by ourselves.We have no choice about that.This insane group leader is just one beast.I'm always tormented by him.This fuck guy will doom to horrible death.HaHaHa.Ok,Let's strive to earn money,and be brave to walk first step for the immigration.Come on and Fighting!***
+
+### Background Music
+ - When Nature is Awaking
+ - Summer Peace(Roald Velden Remix)
