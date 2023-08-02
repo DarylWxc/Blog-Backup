@@ -69,3 +69,15 @@ i will update this diary uncetainly.It depends on what the situation of daytime.
 ### Background Music
  - When Nature is Awaking
  - Summer Peace(Roald Velden Remix)
+
+## 2023/8/1
+***dear diary,today this fucking XLH is going crazy,he look like beast,i really can't understand that this insane sub-human can be the leader of group,it was a sad story of this company,this fuck up guy should doom to hell.It just made me sick in the morning,screw you.Shit!***
+
+### Background Music
+This time is just for vent,no music.Aim to angry.
+
+## 2023/8/2
+***dear diary,i gotta make a decision for my job,i know this fucking insane guy will make us suffer more.I really don't want to be torment by him,but i have to worry about the money about tommorrow,that's such a joke,i am still not confident about the godness,fahter said we don't need to worry about the food of tommorrow,but i am always consider it by myself,that's my fault,please forgive me,father.I pray it for you.I was dreaming about the worthy life,but now i just want to have a peace life.why is that so hard?Father,bless me please.I need your help.***
+
+### Background Music
+ - Moments(Starlit Night Mix)
