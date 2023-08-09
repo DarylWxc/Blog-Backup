@@ -736,3 +736,6 @@ categories:
  - washing machine
  - vacuum cleaner
  - basin
+
+ ## signal word
+![SignalWords](SignalWords.png)

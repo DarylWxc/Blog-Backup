@@ -8,7 +8,7 @@ categories:
 ---
 
 # dear diary
-i will update this diary uncetainly.It depends on what the situation of daytime.If i am not busy,i will write down the story about my experince today.
+I will update this diary uncetainly.It depends on what the situation of daytime.If i am not busy,i will write down the story about my experince today.
 
 ## 2023/07/07
 ***dear diary,today is friday,i come back to my howntown which called QuanZhou.Now i am on the railway train.i cost $104 for the ticket.cause i got no secondary seats for me.My English career is not so well.Even i passed the 4 level exam.Nowadays i want immigrate to Canada.That will be a long-term trip for me.I know my lifetime is just once.I just wonder how my life will be and waht is the future for me.I don't need the sorrow destiny,that's why i make the decision for going oversea.So,god please bless me,for the way i will walk***
@@ -81,3 +81,30 @@ This time is just for vent,no music.Aim to angry.
 
 ### Background Music
  - Moments(Starlit Night Mix)
+
+## 2023/8/3
+***dear diary,that's a common day today,i was so doult about this life,but i can't give up,i need to strive for my future,i wanna immigration to the civil country,i am always dream about it,it worth to fight for.Now i should find one way out and improve my english skill.i have to pass the IELTS at first.Father bless me,i just wanna to have a peace life.i gotta spend time on practice english.Go ahead!***
+
+### Background Music
+ - Here Always
+
+ ## 2023/8/4
+ ***dear diary,i was late yesterday,so i woke up early today and ready to go quickly.I need to tell the insane beast that i should ask for one day vocation for next monday.i gotta go to hongkong.Father bless us,i wish we will have a good trip.Enjoy the life.Pray for it,Amen.***
+
+ ### Background Music
+ - Keep me busy
+
+ ## 2023/8/8
+ ***dear diary,i went to the HongKong last week,that was a great tour for me,first i left the country,i felt about some kind of freedom,it was amazing.When i first arrived there,i was very happy.So i am writing down this exprience.i wish one day i could going outside and feel about the civilization of the world.It must be gorgeous.***
+
+ ### Background Music
+  - Into The Time
+  - Reception(Soty & Seven24 R.I.B Remix)
+  - Watching The Sunset(AKI Amano Remix)
+
+## 2023/8/9
+***dear diary,today i have completed the two parts of listening exam,i found that i am still not get used to this speed of talk,i can't keep up my mind with those conversation,that's the problem of me.It's a shame,now i need to find the difficult thing definitely and overcome it.Come on and fight for it.And i reset the new favorite song that i aim to it.This song is Welcome to New York,Yep,just like what she sang,It's been waiting for you,i believe that New York is like that.And one day i will hear this greet by meself and it won't be so long.***
+
+### Background Muisc
+ - Style
+ - Welcome To New York
