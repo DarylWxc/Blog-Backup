@@ -177,7 +177,7 @@ This time is just for vent,no music.Aim to angry.
  - Catch My Breath
 
 ## 2023/8/25
-***dear diary,today i have some thing to do,so i don't got the time to do the listening practice for my learning.I'm just want to have a rest for myself.And charge the energy for me,then ready to strive for the next week.Come on!!!I can do it.***
+***dear diary,today i have some thing to do,so i don't got the time to do the listening practice for my learning.I'm just want to have a rest for myself.And charge the energy for me,then ready to strive for the next week.Come on!!!I can do it.And i have tried a lot of ways to push the code for github.com,that's a shame,but i made it.***
 
 ### Background Music
  - 빛과 그림자 (Light And Shadow)
