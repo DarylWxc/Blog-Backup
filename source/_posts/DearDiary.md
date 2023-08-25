@@ -98,9 +98,9 @@ This time is just for vent,no music.Aim to angry.
  ***dear diary,i went to the HongKong last week,that was a great tour for me,first i left the country,i felt about some kind of freedom,it was amazing.When i first arrived there,i was very happy.So i am writing down this exprience.i wish one day i could going outside and feel about the civilization of the world.It must be gorgeous.***
 
  ### Background Music
-  - Into The Time
-  - Reception(Soty & Seven24 R.I.B Remix)
-  - Watching The Sunset(AKI Amano Remix)
+ - Into The Time
+ - Reception(Soty & Seven24 R.I.B Remix)
+ - Watching The Sunset(AKI Amano Remix)
 
 ## 2023/8/9
 ***dear diary,today i have completed the two parts of listening exam,i found that i am still not get used to this speed of talk,i can't keep up my mind with those conversation,that's the problem of me.It's a shame,now i need to find the difficult thing definitely and overcome it.Come on and fight for it.And i reset the new favorite song that i aim to it.This song is Welcome to New York,Yep,just like what she sang,It's been waiting for you,i believe that New York is like that.And one day i will hear this greet by meself and it won't be so long.***
@@ -108,3 +108,76 @@ This time is just for vent,no music.Aim to angry.
 ### Background Muisc
  - Style
  - Welcome To New York
+
+## 2023/8/10
+***Dear diary,today i had a comtention with the others about the gender problem.I wasn't get used to the sexual painting behaviour of brick land.But that guy think i am a narrow person.I don't agree with that.Maybe they are more knowledgeable.But i am growing always.Who knows?What's gonna happen tomorrow.Just try my best to prepare for the immigration.Be brave and come back to your lifestyle,Keeping on going!***
+
+### Background Music
+ - Reception(Soty & Seven24 R.I.B Remix)
+
+## 2023/8/11
+***dear diary,today is friday,we have to say something to HaiJing due to he and his wife is gonna to NingBo.It is a pity.They are the part of us.We always be together.But now they will leave.We still bless them.That's very good.And this is a peace day,i gotta strive to improve my english level,there is no more time for wasting.Just do it!!!***
+
+### Background Music
+ - Summer Peace(Roald Velden Remix)
+
+## 2023/8/15
+***dear diary,It's a normal day today.Just working and back home.Nothing else happened.But i think that's very good.It means peaceful day is around me.And i purchase a new IPhone 13 Pro Max for myself.It is from the America.I want to avoid the block of firewall.So i need to regist the American ESIM phone number.Well,i can feel more closer to the freedom.Thank god,god bless me,Please.I believe tomorrow will be better.***
+
+### Background Music
+ - 푸른꽃 (Blue Flower)
+ - Style
+
+
+## 2023/8/16
+***dear diary,today is still a normal day,i found that i don't spend much time on learning english,it is a terrible thing,time is elapsing.I must strive harder.I don't have too much time.God,Bless me,Amen.***
+
+### Backgroud Music
+ - Here Always
+ - Welcome To New York
+
+## 2023/8/17
+***dear diary,today is still a normal day,i'm worried about the body and my action,today i was late fot the work,what the fuck,i really don't want to do this.but i am sleep over.shit!And i need to think how to arrive ZhuHai.This is a hard choice for me.God bless me.I need father to light up my road,i want to participant that party for the couples.I believe it will give me different exprience on my life time.Holding on,Come and get it.I can do it!!!***
+
+### Background Music
+ - A Thousand Years
+ - You Are My Sunshine
+
+## 2023/8/18
+***dear diary,today is friday,i wanna go back home,i have a lot things to do.I have spent so much money recently.For the training,tours,device an so on.Now my wallet is empty,i'am so sad about that.But well,all of these are necessary for me.I feel that i won't regret.And i believe that my life will more and more better.Come on,enjoy the life and spoil ourselves for a while.--->Now,i'm on the railway train for home,i am so boring,the network is sucks,it couldn't connect to the celluer,shit about this,and i am listening to the song call future,this song really courage me a lot.Thanks for the author and the composer.***
+
+### Background Music
+ - 푸른꽃 (Blue Flower)
+ - Inot The Time
+ - Dream Catcher
+ - Future
+
+## 2023/8/22
+***dear diary,i have made the shadow reading yesterday night,i could feel it worked.And i made a plan on my thoughts.I thought i should recite the words 800 one day and do the shadow reading for one topic a day.This may cause some inconvenient for me,but i must to get used to it,i don't have too much time now.How time flying~Come on,make it better everyday.***
+
+### Background Music
+ - 바라만 본다 (Just Watching You)
+ - Into The Time
+ - Hold Me Down
+ - Rememberable
+
+## 2023/8/23
+***dear diary,today i was going to tackle something personal problem in the noon time,after i had the lunch,the fucking down pour was coming,i was got wet.Shit!!!This strange weather make me feel tired.But that's ok,i took a great shower.It just relaxed me.I must prepare for the exam of IELTS.I must work harder.Now i'm practice about the listening topic.I hope it would work.I give out everything to god.Need your help,Father!!!***
+
+### Background Music
+ - 미래(Future)
+ - Dream Catcher
+ - Tides
+
+## 2023/8/24
+***dear diary,today i got a lot of things to resolve.I have to purchase the Google Voice Account and register the okex Account.Futher more i gotta to review the words and do listen practice with shadow reading,That's a really true day.I am so busy recently.But i feel so great,it means that i am growing,i aim to make the progress a bit everyday.I believe i can achieve my immigration one day.Come on!!!***
+
+### Background Music
+ - You And I
+ - Catch My Breath
+
+## 2023/8/25
+***dear diary,today i have some thing to do,so i don't got the time to do the listening practice for my learning.I'm just want to have a rest for myself.And charge the energy for me,then ready to strive for the next week.Come on!!!I can do it.***
+
+### Background Music
+ - 빛과 그림자 (Light And Shadow)
