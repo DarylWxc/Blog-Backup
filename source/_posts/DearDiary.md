@@ -182,3 +182,12 @@ This time is just for vent,no music.Aim to angry.
 ### Background Music
  - 빛과 그림자 (Light And Shadow)
  - I
+
+## 2023/8/28
+***dear diary,today is not so good,i have the new work to handle with.but i should improve my own English ability with much more time.That's really a sad story,and i haven't made a conclusion for my last class.Oh shit!I have to be hurry about that.I have played the earlier game called heroes of might and magic last day.That's my child hood.I like that~HAHA.But back to the reality,i have to keep up with my process of english learning.Come on,Father please hold my hands and walk with me,i just wanna go to other civilzation country,but it seems not easy.However,i believe that god will guard my steps.Amen.***
+
+### Background Music
+ - Castle Town
+ - Strong Hold
+ - Elem Town
+ - Combat 04

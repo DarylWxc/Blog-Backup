@@ -745,3 +745,10 @@ categories:
 
  - 审题阶段，我们可以在题目上划出关键词，方便做题
  圈出定位词:即数字、时间、地点、名词、形容词、否定词
+
+ ## course note
+  - 圈key words，看题看useful
+  - 预测答案
+  - 听关键词So,but,Well,another thing,And,In fact,particularly,actually,and also,etc.
+  - 逻辑思维定位,替换改写(同义替换)
+  - to 后面一般直接给答案
