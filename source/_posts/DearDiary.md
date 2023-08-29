@@ -191,3 +191,11 @@ This time is just for vent,no music.Aim to angry.
  - Strong Hold
  - Elem Town
  - Combat 04
+
+## 2023/8/29
+***dear diary,today i have got the opinion of learning english,i found my time is urgent.I have not so much time to waste.There's a lot trouble i have to handle.Just make me brave,father.I need your help.I'm even think about to quit for my job.Concentrater to learning the english.But i don't know is it right or not.Tonight i wanna pray for it,maybe i will receive a sign to enlight me.I must make the decision for myself.Be careful!!!***
+
+### Background Music
+ - 바라만 본다 (Just Watching You)
+ - 상처는 아름다운 흔적이 되어 (Scars leave beautiful trace)
+ - 아리운 (Aching)

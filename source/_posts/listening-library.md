@@ -752,3 +752,65 @@ categories:
   - 听关键词So,but,Well,another thing,And,In fact,particularly,actually,and also,etc.
   - 逻辑思维定位,替换改写(同义替换)
   - to 后面一般直接给答案
+
+## record for the needing
+ - still interested
+ - advert
+ - at all
+ - That's
+ - answering
+ - waiting at
+ - That'd
+ - at
+ - interfere
+ - at the university
+ - permit
+ - tutor to
+ - were to get
+ - double L double N
+ - stop
+ - library
+ - nearest one
+ - offering(offer)
+ - fringe
+ - hostel
+ - certainly
+ - perk
+ - after 11 o'clock
+ - obviously
+ - along the
+ - tell us about
+ - yet another
+ - attracted
+ - equipment
+ - widest
+ - attractions all weekend
+ - entrants
+ - fixtures
+ - semester
+ - I could Starts
+ - still
+ - in relation
+ - interesting
+ - read 过去式
+ - polite
+ - references
+ - left over
+ - engineering
+ - taught
+ - our own
+ - wrote
+ - tide
+ - of event
+ - stranded
+ - infested
+ - potential
+ - death of 
+ - originate
+ - directly
+ - tuna
+ - Alternatively
+ - monitored
+ - submarine
+ - toothed
+ - that are
