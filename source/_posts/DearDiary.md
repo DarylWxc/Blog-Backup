@@ -199,3 +199,11 @@ This time is just for vent,no music.Aim to angry.
  - 바라만 본다 (Just Watching You)
  - 상처는 아름다운 흔적이 되어 (Scars leave beautiful trace)
  - 아리운 (Aching)
+
+## 2023/8/30
+***dear diary,i have called my uncle last night,i talked with him about the future plan of myself.There's a lot of trouble i have to resolve and that truth makes me so worry about.I preyed last night before sleeping.I wish i will be blessed by god in this way to imigrate.I think that's very important for me.And i was searching the information about all the prepare of study abroad.I am suffering the pressure.But i believe i can do it.That's my decision.I shouldn't give up~Just fight for it!!!***
+
+### Background Music
+ - Over my Head
+ - golden hour
+ - shadow(Lessov Remix)

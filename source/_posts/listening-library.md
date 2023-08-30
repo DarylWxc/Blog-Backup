@@ -749,10 +749,18 @@ categories:
  ## course note
   - 圈key words，看题看useful
   - 预测答案
-  - 听关键词So,but,Well,another thing,And,In fact,particularly,actually,and also,etc.
+  - 听关键词So,but,Well,another thing,And,In fact,particularly,actually,and also,For example,etc.
   - 逻辑思维定位,替换改写(同义替换)
   - to 后面一般直接给答案
-
+  - 语气，重音，音变
+  - 做完题后要核对与总结，结合方法
+  - 填空，第一遍(错题归类)，第二遍(整理问题),第三遍(总结)
+ 
+## words sub
+ - about = around = approximately
+ - and = then
+ - there's = has
+ 
 ## record for the needing
  - still interested
  - advert
