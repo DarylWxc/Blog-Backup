@@ -301,6 +301,15 @@ tags:
 
 ### conclusion
  - 财经新闻-LT必看
+
+## 2023/8/31
+ - 路透社预测8月PMI持续走低
+ - 存量房贷款调整
+ - 核酸大相暴露出来
+### conclusion
+ - 核酸腐败，医药反腐不抓核酸
+ - 终究是捂盖子，引导民众不讨论政治
+
 # Other Information
 1. <font color=red>墙内翻墙人数仅150w(exclude people oversea)</font>
 2. 党员9800w

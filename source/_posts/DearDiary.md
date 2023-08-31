@@ -207,3 +207,13 @@ This time is just for vent,no music.Aim to angry.
  - Over my Head
  - golden hour
  - shadow(Lessov Remix)
+
+
+## 2023/8/31
+***dear diary,today i have a to-do list for solving.I spent more than two hours with english class last night.I have to reset my learning plan now.The vocabulary should be updated and enlarged.And i gotta listen and read the 6 minute English.I must improve my reading speed.That's very important for me to complete the answer.But i should spend more time on these things.That's why i consider about quiting my job.That's a heavily decision for me.If i do that,i have to pay a lot for it that includs my emotions.I have to face the pressure of my parents and the other kins.Just give me brave and power.i need your help,Father.Amen!***
+
+### Background Music
+ - Find our way
+ - Viva la Vida
+ - day by day
+ - over my head
