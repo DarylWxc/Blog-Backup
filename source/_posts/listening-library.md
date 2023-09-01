@@ -822,3 +822,19 @@ categories:
  - submarine
  - toothed
  - that are
+ - bedsit
+ - 'd only
+ - of options
+ - facilities
+ - grant
+ - knowing
+ - these into account
+ - for slightly
+ - torn
+ - wild
+ - variety
+ - take up
+ - cramped
+ - in there
+ - effectively
+ - category

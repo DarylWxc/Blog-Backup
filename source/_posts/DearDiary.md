@@ -217,3 +217,12 @@ This time is just for vent,no music.Aim to angry.
  - Viva la Vida
  - day by day
  - over my head
+
+
+## 2023/9/1
+***dear diary,i have maden a practice for last night,the process was very bad,but i found that i've achieved a lot progress in that.I'm pleased with it.Just keep up with learning and strive for my goal.I believe the future will better day by day.I need to bare the pressure i would face.That's the cost of my decision.And i wish that the father will bless me as well.Hallelujah,Amen!!!***
+
+
+### Background Music
+ - I
+ - Hallelujah
