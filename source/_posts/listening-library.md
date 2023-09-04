@@ -749,13 +749,16 @@ categories:
  ## course note
   - 圈key words，看题看useful
   - 预测答案
-  - 听关键词So,but,Well,another thing,And,In fact,particularly,actually,and also,For example,etc.
+  - 听关键词So,but,Well,another thing,finally,And,In fact,particularly,actually,and also,For example,etc.
   - 逻辑思维定位,替换改写(同义替换)
-  - to 后面一般直接给答案
+  - to 后面一般直接给答案,and a单位很重要
   - 语气，重音，音变
   - 做完题后要核对与总结，结合方法
   - 填空，第一遍(错题归类)，第二遍(整理问题),第三遍(总结)
- 
+  - drive(define as road in 名词),practice(difine as nursy at school in 名词)
+  - film(define as 薄膜),plan = map,plants = factory
+  - 根据地图题精听学习表达,地图题单词理解很重要,单词的不同理解for example:past(经过),over,pass
+  - 从每个真题的原文总结，
 ## words sub
  - about = around = approximately
  - and = then
@@ -838,3 +841,11 @@ categories:
  - in there
  - effectively
  - category
+ - first sharp corner,second corner 
+ - side entrance
+ - the far side of
+
+## homework
+ - IELTS 13 test 1 section2
+ - IELTS 8 test 4 section 2
+ - IELTS 8 test 2 section 2

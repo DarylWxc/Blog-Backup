@@ -226,3 +226,12 @@ This time is just for vent,no music.Aim to angry.
 ### Background Music
  - I
  - Hallelujah
+
+## 2023/9/4
+***dear diary,i played heroes 3 recently,I have to wake up and notice that i have no much time for wasting.So sad,i know time is elapsing but i don't get a high caution about it.I need to prepaer for the english test and concenrate to it.Even this time,the fucking brute is try to put more work on me.I don't want to pay my attention to him.Fine,just cheer myself.For the best future!!!***
+
+### Background Music
+ - 미래 (Future)
+ - Welcome to New York
+ - Style
+ - Here Always
