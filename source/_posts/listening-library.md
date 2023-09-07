@@ -844,6 +844,9 @@ categories:
  - first sharp corner,second corner 
  - side entrance
  - the far side of
+ - poultry
+ - the comer of
+ - 
 
 ## homework
  - IELTS 13 test 1 section2

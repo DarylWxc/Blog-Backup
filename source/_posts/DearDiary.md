@@ -235,3 +235,13 @@ This time is just for vent,no music.Aim to angry.
  - Welcome to New York
  - Style
  - Here Always
+
+## 2023/9/7
+***dear diary,my mom had come to see me recent days when the typhoon is influencing the weather,i was not really in good status.And i didn't practicing positively.That is a bad news for me.I have to hurry up for the learning process.Last night i didn't have the english class cause my english teacher's new house was flooded,there was so heavy rainfall,so many places in FuZhou were flooded.So my mom can't back to home then stay here with me.And she was go back just now.Now i should come back to my original way of life.Keep up improving my english~come on,hope that father will bless me with my runing way.Last ting,i have finished watching the drama called 《Uncontrollably Fond》,that is a sad love story for one couple.It really moved me,i droped tears for many times.But i still think that is a great drama and worth watching and praising.***
+
+### Background Music
+ - The End(Drama Edit)
+ - Some Day(某天)
+ - Chaos
+ - Across The Ocean
+ - A little Braver
