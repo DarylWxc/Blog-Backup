@@ -245,3 +245,11 @@ This time is just for vent,no music.Aim to angry.
  - Chaos
  - Across The Ocean
  - A little Braver
+
+## 2023/9/8
+***dear diary,today i decide not to join group activty with the others,cause i will be very busy for next week,i wanna have a long travel for the party of connection of lovers.That's the main gist of next week for me,and i cost a lot for that.But i can't forget my most important purpose of immigration.I have to improve my english level,and i get a little progress for this.Now i need to be hurry,there's no more words to say.Just come on the fight for it.That's why i make a decision of having class and not to join group activty.Forgive me,Father.***
+
+### Background Music
+ - Across The Ocean
+ - Only U
+ - Main Menu
