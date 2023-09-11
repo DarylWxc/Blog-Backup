@@ -253,3 +253,11 @@ This time is just for vent,no music.Aim to angry.
  - Across The Ocean
  - Only U
  - Main Menu
+
+## 2023/9/11
+***dear diary,i have finished watching the K-drama <Revenant>,this is one drama that reflected the darkness inside the human beinngs.The humans are more terrible than the ghost sometimes.As one of the christian,i have to face my heart everytime and prevent won't lost myself.We are born to honor the father,So we should check ourselves every moment.Please bless with me,Father.I need your help.And my group chat and moment have been blocked.This fucking goverment and management,but we can't protest them cause we don't have the power.That's why i decide to immigrate another civilazation country.I want to exprience the fresh air of freedom.***
+
+### Background Music
+ -  문 (門)(The door)
+ - 공야 (空夜)(Lonely night)
+ - 드러나는 진실 (Unveiled Truth)

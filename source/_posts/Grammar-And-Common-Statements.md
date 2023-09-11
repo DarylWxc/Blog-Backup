@@ -56,6 +56,7 @@ categories:
  - on the other hand
  - however
  - at the same time
+ - despite
 
 ### 表解释说明的连接词
  - that is

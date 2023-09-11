@@ -750,7 +750,7 @@ categories:
   - 圈key words，看题看useful
   - 预测答案
   - 听关键词So,but,Well,another thing,finally,And,In fact,particularly,actually,and also,For example,etc.
-  - 逻辑思维定位,替换改写(同义替换)
+  - 逻辑思维定位,替换改写(同义替换)!!!!!!
   - to 后面一般直接给答案,and a单位很重要
   - 语气，重音，音变
   - 做完题后要核对与总结，结合方法
@@ -758,12 +758,40 @@ categories:
   - drive(define as road in 名词),practice(difine as nursy at school in 名词)
   - film(define as 薄膜),plan = map,plants = factory
   - 根据地图题精听学习表达,地图题单词理解很重要,单词的不同理解for example:past(经过),over,pass
-  - 从每个真题的原文总结，
+  - 从每个真题的原文总结
+  - 同义替换非常重要，然后需要非常注意转折点关键词！！！！！！！！！
+
+## practice process
+ - 优先看问题，画圈审题
+ - 考点划线，注意改写。生词猜发音
+ - 边听边做记号
+ - 做完有总结
+
 ## words sub
  - about = around = approximately
  - and = then
  - there's = has
- 
+ - encourage = inspire 
+ - overtime = extra(beyond) time
+ - coach = trainer 
+ - conventional = traditional
+ - issue = problem 
+ - plants = factory
+ - plan = map
+ - atmosphere = mood
+ - comtemporary
+ - increse = growing
+ - cause of problems = set back
+ - poor = lack of good
+
+## connection key words
+ - 举例
+ - 转折
+ - 因果
+ - 强调
+ - 插入语
+ - 新话题
+ - 补充
 ## record for the needing
  - still interested
  - advert
@@ -846,9 +874,21 @@ categories:
  - the far side of
  - poultry
  - the comer of
- - 
+ - groom = keep clean = feed = look after
+ - collection = seeing
+ - assignment = paper
+ - work out = plan
+ - outline = structure
+ - work out = plan
 
 ## homework
- - IELTS 13 test 1 section2
+ - IELTS 13 test 1 section 2
  - IELTS 8 test 4 section 2
  - IELTS 8 test 2 section 2
+
+## words collection
+ - emo
+ - bgm
+ - be
+ - he
+ - privilage
