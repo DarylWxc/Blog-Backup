@@ -261,3 +261,27 @@ This time is just for vent,no music.Aim to angry.
  -  문 (門)(The door)
  - 공야 (空夜)(Lonely night)
  - 드러나는 진실 (Unveiled Truth)
+
+## 2023/9/12
+***dear diary,i have collected the information about taking air plane,i need to figure out what is limited in the air planes that my baggage won't be blocked in airport.And tomorrow i gonna travel to ZhuHai,i wish i could have nice time at this vocation.Father please bless me with in this trip.I have watched so much unfair thing happened in the country,all i want is just to immigreat another civilization country and have a peace life,i believe i can achieve that.Just do it!!!***
+
+### Background Music
+ - 공야 (空夜)(Lonely night)
+ -  문 (門)(The door)
+ - I'm Sorry
+
+ ## 2023/9/13
+ ***daer diary,now i'm in the air plane,i wanna take the air to ZhuHai,this is my second time to take air plane in my life.So i got a little excited.I don't have wealthy family,you know that.And i don't get a higher salary job.My money can't support me to travel oftenly.I believe this will be a good time,please bless my,father!!!I hope that i will be safe there and safe back.***
+
+ ## 2023/9/17
+ ***dear diary,welcome back,i have finished the travel for three days in ZhuHai.Now i'm in the air plane again,this is the back flight to FuZhou.I still have lots of works to do,these days are just for relaxing.It's just like fall asleeping.But now i have to awake up and face the true life again.Maybe i am so weak,but i wanna to be more stronger and braver.do i have the chance?Father,we want your help.The darkness can't cover the light.I believe that always.Come on,adjust my status and then take it easy.Low down the pressure.Just struggle with it.***
+
+
+## 2023/9/19
+***dear diary,It has passed two days from the activey end.I earned a lot from that experience.I was enjoying the time while i was serving the siblings.I could feel the god with us and our life have been updated.So i decide to share that for the siblings around me in FuZhou.I believe we can all gian something we want.We can relax from the god and be stronger to face the life.We wish our life can honor god all the time and live like god.***
+
+### Background Music
+ - Over My Head
+ - Closer
+ - Across The Ocean
+ - 공야 (空夜)(Lonely night)
