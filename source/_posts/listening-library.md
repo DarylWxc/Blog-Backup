@@ -749,7 +749,7 @@ categories:
  ## course note
   - 圈key words，看题看useful
   - 预测答案
-  - 听关键词So,but,Well,another thing,finally,And,In fact,particularly,actually,and also,For example,etc.
+  - 听关键词So,but,Well,another thing,finally,And,In fact,particularly,actually,and also,For example,etc.afterwards.
   - 逻辑思维定位,替换改写(同义替换)!!!!!!
   - to 后面一般直接给答案,and a单位很重要
   - 语气，重音，音变
@@ -880,11 +880,35 @@ categories:
  - work out = plan
  - outline = structure
  - work out = plan
+ - casual
+ - certificates
+ - disinfectant
+ - 
 
-## homework
- - IELTS 13 test 1 section 2
- - IELTS 8 test 4 section 2
- - IELTS 8 test 2 section 2
+## wrong question
+### IELTS 15
+ - test 1
+section1:
+ - 3  i didn't hear clear about isn't
+ - 10 i didn't understand about question applying for job
+section2:
+ - 11 i don't hear clearly
+ - 12 i don't hear clearly and don't know the prononciation of the word
+ - 16 i don't hear clearly
+ - 18 i don't understand the meaning of words
+ - 20 i don't hear clearly
+section3:
+ - 23 i don't hear clearly
+ - 24 i don't know the meaning of words
+ - 26 i don't hear clearly
+ - 27 i don't hear clearly
+ - 28 i don't hear clearly
+section4:
+ - 33 i don't hear clearly
+ - 35 i don't hear clearly
+ - 36 i don't hear clearly
+ - 38 i can't hear the prononciation of words
+
 
 ## words collection
  - emo

@@ -285,3 +285,10 @@ This time is just for vent,no music.Aim to angry.
  - Closer
  - Across The Ocean
  - 공야 (空夜)(Lonely night)
+
+## 2023/9/20
+***dear diary,I have wrote the article for sharing in Friday with my siblings.I want to express my feeling on this trip to them,Wish that they will all gain something full from the god and holy ghost.Father always gives us more than what we need.We wanna follow his path and no longer worry about the other things.Cause he own this world,he is the lord and father of us.Please bless me with my sharing and growth.Hallelujah.***
+
+### Background Music
+ - Need Somebody
+ - On My Head
