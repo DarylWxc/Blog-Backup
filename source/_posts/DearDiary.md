@@ -292,3 +292,31 @@ This time is just for vent,no music.Aim to angry.
 ### Background Music
  - Need Somebody
  - On My Head
+
+## 2023/9/21
+***dear diary,i forgot pray last night,cause i was watch the K-drama called (Business Proposal).I think it is so funny that i keep watching it.But that is not a good sign,i have to keep a good status for learning and working at the daytime.I am still excite about the traval i have exprienced.It really helped me growing a lot.I hope i can let the spirit join my life.Just face the life stronger and braver.Fight for the future and don't afraid or giving up.I believe father will hold our hands all the time with any situation.***
+
+### Background Music
+ - Need Somebody
+ - On My Head
+ - Closer
+
+## 2023/9/22
+***dear diary,today i told the leader that i have the thought about quiting.I have to squeeze more time for preparing the IELTS,i don't have too much time for wasting.So i mentioned him directly.Just forget the thing behind me,and face the trueth and fight for it.Come on!!!Father,Please bless me with this road.I know it won't be easy.I need your help.But i gotta to practice my self control,i can't spend more time on playing video games.This is also good time for doing sport and improve myself.I need to lose my weight.And build the better health.Keep up with making progress everyday.This world is full of grace with god,we just need to find them.***
+
+### Background Music
+ - Need Somebody
+ - 水凝墨剧情-RingBell
+ - 悬溺(笛子)
+ - On My Head
+ - Close
+ - Across The Ocean
+ - 공야 (空夜)(Lonely night)
+
+## 2023/9/25
+***dear diary,i have told the beast i will quit after national festival,just follow the process and exchange the work to others.It is hard to make this decision.I should responsible to the next phase.I'm afraid i will not concentrate on learning english then playing the video games.That's very terrible to me.I have to practice about self control.This is high threshold for me.Father,please bless me with my next road.***
+
+### Background Music
+ - Sad Fate
+ - Magical moment
+ - attack音D Ring Bell

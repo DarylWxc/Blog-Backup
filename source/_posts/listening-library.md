@@ -883,11 +883,14 @@ categories:
  - casual
  - certificates
  - disinfectant
- - 
+ - familiar
+ - bend
+ - pond
+ - bilingual
 
 ## wrong question
 ### IELTS 15
- - test 1
+ - test 1   6 point
 section1:
  - 3  i didn't hear clear about isn't
  - 10 i didn't understand about question applying for job
@@ -909,7 +912,27 @@ section4:
  - 36 i don't hear clearly
  - 38 i can't hear the prononciation of words
 
-
+ - test2   6 point
+section 1:
+ - 3 grammar problem,words property
+ - 6 i don't hear clearly
+ - 7 i don't hear clearly
+ - 8 i don't hear clearly
+section 2:
+ - 11 i don't hear clearly and the meaning of the words
+ - 12 i don't hear clearly
+ - 19 i don't hear clearly
+section 3:
+ - 21 i don't hear clearly
+ - 24 i don't hear clearly
+ - 26 i don't figure out the meaning of sentence
+ - 28 i don't hear clearly
+section 4:
+ - 31 i don't figure out the meaning of question
+ - 36 i don't figure out the meaning of question
+ - 37 i don't hear clearly
+ - 38 i don't hear clearly
+ - 40 i should figure out the question
 ## words collection
  - emo
  - bgm

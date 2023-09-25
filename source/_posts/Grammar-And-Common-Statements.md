@@ -11,9 +11,10 @@ categories:
 ## Tense🎉
 |   | 一般式(simple) | 进行式(continuous) | 完成式(perfect)  | 完成进行式(perfect continuous) |
 | :------- | :-------- | :---- | :------- | :-------- |
-| 现在(present) | 一般现在时(do)  | 现在进行时(am/is/are doing) | 现在完成时(have/has done) | 现在完成进行时(have/has been doing)  |
-| 过去(past) | 一般过去时(did)  | 过去进行时(was/were doing) | 过去完成时(had done) | 过去完成进行时(had been doing)  |
-| 将来(future) | 一般将来时(will do)  | 将来进行时(will be doing) | 将来完成时(will have done) | 将来完成进行时(will have been doing)  |
+| 现在(present) | <font color=red>一般现在时(do)  | <font color=red>现在进行时(am/is/are doing) | <font color=red>现在完成时(have/has done) | 现在完成进行时(have/has been doing)  |
+| 过去(past) | <font color=red>一般过去时(did)  | <font color=red>过去进行时(was/were doing) | <font color=red>过去完成时(had done) | 过去完成进行时(had been doing)  |
+| 将来(future) | <font color=red>一般将来时(will do)  | 将来进行时(will be doing) | 将来完成时(will have done) | 将来完成进行时(will have been doing)  |
+| 过去将来(past future) | <font color=red>一般过去将来(would/was doing) | - | - | - |
 
 ## conjunction
 ### 选择关系或对等关系的连接词
@@ -340,3 +341,46 @@ categories:
  - across
  - facing to
  - be parallel to
+
+## Grammer Class Record
+### words -> chunks -> sentences
+ - verb is most important
+ - 主语
+ - 宾语
+ - 连词(Not Core)
+ - 介词(Not Core)
+ - 连接词
+ - 补语---主谓宾补
+ - 动词
+1. ***有实义***
+ - 极物动词(主谓)
+ - 不极物动词(主谓宾，主谓双宾，主谓宾补)
+2. ***无实义***
+ - (连)系动词(主系表)
+
+
+### 简单句
+1. 表达一件事
+ - 主语+谓语
+ - 主语+谓语+宾语
+ - 主语+谓语+双宾(间接宾语--物，直接宾语-人)
+ - be动词(核心构成)
+ - 被动语态(have/had/has be/was/are/been/being done)
+ - 动词修饰(副词) 行前动后
+ - 情态动词(must/can/could/may/should/might) + do
+ - 形容词(同级 as long as 比较 more 最高级 most)
+ - 介词(by despite onto)
+
+2. 时态
+ - 过去 did
+ - 现在 do
+ - 将来 will do
+ - 进行时 doing
+ - have been to 去过
+ - have gone to 去了
+3. 多件事
+ - 找连接词
+
+### words sub
+ - extolled
+ - 
