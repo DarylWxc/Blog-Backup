@@ -318,5 +318,18 @@ This time is just for vent,no music.Aim to angry.
 
 ### Background Music
  - Sad Fate
- - Magical moment
+ - Magical Moment
  - attack音D Ring Bell
+
+## 2023/9/26
+***dear diary,after i said that i will quit after the national festival.I'm quit idle.And i want to learn more about deploy the V2Ray server for myself.Cause it will be more safer than i subscribe the other's.But there is a lot difficult problem i have to conquer.And i did the listening practice last night,i discovered that i'm still not good at listening skills.So i must do more exam about IELTS and improve my vocabulary.That's very important for me.When i search for the information about complete the deployment,i also found useful articles for me.If i figure out these technology,it will help me to grow a lot.Even the reading of english corpus.So i must keep up with learning and practicing.Don't give up and strive to it.However,i can have some time for rest,right?Dear father,please give me wisdom,i wanna honor you with my whole lifetime.***
+
+### Background Music
+ - Sad Fate
+ - Magical Moment
+ - attack音D Ring Bell
+ - 少年杨家将 情痴 - Ring Bell
+ - 水凝墨剧情 - Ring Bell
+ - 悬溺(笛子)
+ - sunflower X chemical - minlee
+ - 太妍、Verbal Jint - I

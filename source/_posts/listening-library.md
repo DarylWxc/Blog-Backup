@@ -887,52 +887,82 @@ categories:
  - bend
  - pond
  - bilingual
+ - rinsed
+ - perfume
 
-## wrong question
-### IELTS 15
- - test 1   6 point
-section1:
+# wrong question
+## IELTS 15
+### test 1 ---- 6 point
+1. section1:
  - 3  i didn't hear clear about isn't
  - 10 i didn't understand about question applying for job
-section2:
+2. section2:
  - 11 i don't hear clearly
  - 12 i don't hear clearly and don't know the prononciation of the word
  - 16 i don't hear clearly
  - 18 i don't understand the meaning of words
  - 20 i don't hear clearly
-section3:
+3. section3:
  - 23 i don't hear clearly
  - 24 i don't know the meaning of words
  - 26 i don't hear clearly
  - 27 i don't hear clearly
  - 28 i don't hear clearly
-section4:
+4. section4:
  - 33 i don't hear clearly
  - 35 i don't hear clearly
  - 36 i don't hear clearly
  - 38 i can't hear the prononciation of words
 
- - test2   6 point
-section 1:
+### test2 ---- 6 point
+1. section 1:
  - 3 grammar problem,words property
  - 6 i don't hear clearly
  - 7 i don't hear clearly
  - 8 i don't hear clearly
-section 2:
+2. section 2:
  - 11 i don't hear clearly and the meaning of the words
  - 12 i don't hear clearly
  - 19 i don't hear clearly
-section 3:
+3. section 3:
  - 21 i don't hear clearly
  - 24 i don't hear clearly
  - 26 i don't figure out the meaning of sentence
  - 28 i don't hear clearly
-section 4:
+4. section 4:
  - 31 i don't figure out the meaning of question
  - 36 i don't figure out the meaning of question
  - 37 i don't hear clearly
  - 38 i don't hear clearly
  - 40 i should figure out the question
+
+### test3 ---- 5.5 point
+1. section1:
+ - 2 i didn't add s to the noun
+ - 5 i didn't add number to the word
+ - 8 i didn't figure out the meaning
+2. section2:
+ - 12 i didn't hear clearly
+ - 13 i didn't hear clearly
+ - 16 i don't figure out the meaning of question items
+ - 19 i didn't hear clearly
+ - 20 i didn't hear clearly
+3. section3:
+ - 22 i didn't hear clearly
+ - 23 wrong spelling
+ - 24 i didn't know the meaning of question
+ - 26 wrong spelling
+ - 29 i didn't hear clearly
+4. section4:
+ - 31 i didn't hear clearly
+ - 32 i didn't hear clearly
+ - 33 i didn't hear clearly
+ - 34 i didn't hear clearly
+ - 35 i didn't hear clearly
+ - 37 i didn't hear clearly
+ - 38 i didn't hear clearly
+ - 40 i didn't hear clearly
+
 ## words collection
  - emo
  - bgm
