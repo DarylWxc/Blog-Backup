@@ -35,7 +35,6 @@ Now I'm prepare for the IELTS exam.It is expected to be reached within half a ye
 ## way-to-Canada
 ### Knowlegde of policies
 ### go-study-abroad
-### go-study-abroad
 -----------------------------------
 ## way-to-NewZealand
 ### Knowlegde of policies

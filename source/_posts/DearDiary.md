@@ -57,7 +57,7 @@ I will update this diary uncetainly.It depends on what the situation of daytime.
   - August Peace
 
   ## 2023/07/24
-  ***dear diary,today i'm strive to developing big screen fot the task of son of bitch!!!That insane one just like animal always make everyone feel bad.It is very disgusting.There's another one thing is just i need to relocated my house.It will be one tired thing for me.God bless me.I just want to have peace life and upgrow my english level fot the immigration.Come on!!!I can do it.***
+  ***dear diary,today i'm strive to developing big screen for the task of son of bitch!!!That insane one just like animal always make everyone feel bad.It is very disgusting.There's another one thing is just i need to relocated my house.It will be one tired thing for me.God bless me.I just want to have peace life and upgrow my english level for the immigration.Come on!!!I can do it.***
 
  ### Background Music
  - Moments(Roald Velden Remix)
@@ -110,7 +110,7 @@ This time is just for vent,no music.Aim to angry.
  - Welcome To New York
 
 ## 2023/8/10
-***Dear diary,today i had a comtention with the others about the gender problem.I wasn't get used to the sexual painting behaviour of brick land.But that guy think i am a narrow person.I don't agree with that.Maybe they are more knowledgeable.But i am growing always.Who knows?What's gonna happen tomorrow.Just try my best to prepare for the immigration.Be brave and come back to your lifestyle,Keeping on going!***
+***Dear diary,today i had a communication with the others about the gender problem.I wasn't get used to the sexual painting behaviour of brick land.But that guy think i am a narrow person.I don't agree with that.Maybe they are more knowledgeable.But i am growing always.Who knows?What's gonna happen tomorrow.Just try my best to prepare for the immigration.Be brave and come back to your lifestyle,Keeping on going!***
 
 ### Background Music
  - Reception(Soty & Seven24 R.I.B Remix)
@@ -333,3 +333,12 @@ This time is just for vent,no music.Aim to angry.
  - 悬溺(笛子)
  - sunflower X chemical - minlee
  - 太妍、Verbal Jint - I
+
+## 2023/9/27
+***dear diary,i will have a long-day vocation on national festival start at tommorrow.I got three to-do list for myself.That's my task,i need to handle that shit.But it's ok,i'm glad i can do this.I'm always growing.There is no better thing that this meaning for me.Just like the preach said that our life goal is growth not happiness.Happiness is the by-product of our growth.I realized that so many chinese are not understand what the situation they facing.I can't do anything to help them.All the thing i can do it's just to protect myself from this goverment.Father,plaese bless me.***
+
+### Background Music
+ - Maybe
+ - Go Go Sandbox
+ - Sad Fate
+ - Magical Moment

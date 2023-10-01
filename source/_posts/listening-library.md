@@ -889,6 +889,8 @@ categories:
  - bilingual
  - rinsed
  - perfume
+ - wash off = rinsed off
+ - no longer = removed
 
 # wrong question
 ## IELTS 15

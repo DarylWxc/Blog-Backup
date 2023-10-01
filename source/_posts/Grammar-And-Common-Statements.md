@@ -361,7 +361,7 @@ categories:
 
 ### 简单句
 1. 表达一件事
- - 主语+谓语
+ - 主语+谓语(句式固定只有一主一谓)
  - 主语+谓语+宾语
  - 主语+谓语+双宾(间接宾语--物，直接宾语-人)
  - be动词(核心构成)
@@ -370,6 +370,9 @@ categories:
  - 情态动词(must/can/could/may/should/might) + do
  - 形容词(同级 as long as 比较 more 最高级 most)
  - 介词(by despite onto)
+ - 非谓语动词(as like noun)
+ - 介宾无法接to do
+ - 动宾可以to do和doing（doing可能会跟一般将来时混淆）
 
 2. 时态
  - 过去 did
@@ -378,8 +381,22 @@ categories:
  - 进行时 doing
  - have been to 去过
  - have gone to 去了
-3. 多件事
- - 找连接词
+
+### 复杂句
+1. 多件事(多简单句)
+ - 找连接词(并列连词)
+2. example
+ - ...and...
+ - both...and
+ - not only...but...as well
+ - not only...but also...
+ - ...but...
+ - ...yet...
+ - ...or...
+ - either...or...
+ - neither...nor...
+ - ...for...
+ - ...so...
 
 ### words sub
  - extolled
