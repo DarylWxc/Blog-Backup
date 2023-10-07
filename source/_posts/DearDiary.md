@@ -342,3 +342,17 @@ This time is just for vent,no music.Aim to angry.
  - Go Go Sandbox
  - Sad Fate
  - Magical Moment
+
+ ## 2023/10/5
+ ***dear diary,my national vocation is ending,i will come back FuZhou tomorrow.Thank god i had great experience recently.I visited several friends and family.This is the purpose that i came back.I resolved a lot problem.but i have to face the new barrier after coming back.I need to improve my english skill and prepare for passing the IELTS.So i worry about this.However,Father told us that you don't need to worry about the future,the strees only for daily.That's why i always have good sleep.It all belongs to god,everything happened to me can been used to honor the father.Please bless my next way for immigration.Now i'm on the bus and glad i can live here.I'm going the TaiHe square and get my smart phone back.I wish the connection is OK that our trying is worthy.But if it can't be well,i can finitely accept it.Never mind and complain it.Life is always becoming more and more well.***
+
+ ### Background Music
+ i don't have phone here,so No Music!!!
+
+## 2023/10/07
+***dear diary,today i applyed the quit process.It's hard for me to make this decision.I don't know if it is right for doing that like this.But i know i don't want to waste too much time on the fucking work.I shouldn't focus on those insane people.I should strive to improve my enlish level for passing IELTS.And i got a task to finish.I have to complete the mind map for lessons recently.Review the content of class and understand how to use them.Come on,God please bless me.I wanna to stead my confidence and don't give up.***
+
+### Background Music
+ - I'm sorry
+ - Just Watching You
+ - Into The Time

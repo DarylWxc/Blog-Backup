@@ -755,7 +755,7 @@ categories:
   - 语气，重音，音变
   - 做完题后要核对与总结，结合方法
   - 填空，第一遍(错题归类)，第二遍(整理问题),第三遍(总结)
-  - drive(define as road in 名词),practice(difine as nursy at school in 名词)
+  - drive(define as road in 名词),practice(define as nursy at school in 名词)
   - film(define as 薄膜),plan = map,plants = factory
   - 根据地图题精听学习表达,地图题单词理解很重要,单词的不同理解for example:past(经过),over,pass
   - 从每个真题的原文总结
@@ -792,6 +792,7 @@ categories:
  - 插入语
  - 新话题
  - 补充
+ 
 ## record for the needing
  - still interested
  - advert

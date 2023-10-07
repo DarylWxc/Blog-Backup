@@ -397,7 +397,16 @@ categories:
  - neither...nor...
  - ...for...
  - ...so...
+3. 并列句
+4. 复合句
+ - 名词性从句(宾语，表语，主语，同位语)从句
+ - 宾语从句(动宾(单，双)，介宾，表语(主戏表--Be动词后))
+ - 主语从句(that 不可省，写作中使用,动词前)
+ - 同位语从句(用于-解释说明)
 
+adj. + n. is that 口语句型
+It is + adj. + that 主语从句,写作
+It is done　＋ that　 主语从句,写作
 ### words sub
  - extolled
  - 
