@@ -892,6 +892,7 @@ categories:
  - perfume
  - wash off = rinsed off
  - no longer = removed
+ - indication
 
 # wrong question
 ## IELTS 15
@@ -966,6 +967,30 @@ categories:
  - 38 i didn't hear clearly
  - 40 i didn't hear clearly
 
+### test4 ---- 6 point
+1. section1:
+ - 6 i didn't know the meaning of question
+ - 7 i didn't know the meaning of question
+ - 8 i didn't hear clearly
+
+2. section2:
+ - 12 i didn't hear clearly
+ - 20 i didn't hear clearly
+
+3. section3:
+ - 21 i didn't hear clearly
+ - 22 i didn't hear clearly
+ - 29 i didn't hear clearly
+
+4. section4:
+ - 32 i didn't hear clearly
+ - 33 i didn't hear clearly
+ - 34 i didn't hear clearly
+ - 36 i didn't hear clearly
+ - 37 i didn't hear clearly
+ - 38 i didn't hear clearly
+ - 39 i didn't hear clearly
+ - 40 i didn't hear clearly
 ## words collection
  - emo
  - bgm

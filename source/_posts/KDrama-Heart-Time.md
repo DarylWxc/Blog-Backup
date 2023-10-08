@@ -75,3 +75,11 @@ i will take a screenshot about the KDrama Beautiful time and record it according
 2. episode 14 42:41
 3. episode 7 62:18
 4. episode 8 22:23
+
+## What's Wrong with Secretary Kim
+1. episode 14 61:42
+
+## Business Proposal
+1. episode 1 53:40
+2. episode 7 29:51
+3. episode 2 39:37

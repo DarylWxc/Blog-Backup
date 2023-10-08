@@ -404,9 +404,11 @@ categories:
  - 主语从句(that 不可省，写作中使用,动词前)
  - 同位语从句(用于-解释说明)
 
-adj. + n. is that 口语句型
-It is + adj. + that 主语从句,写作
-It is done　＋ that　 主语从句,写作
+ - 句型
+ 1. adj. + n. is that 口语句型
+ 2. It is + adj. + that 主语从句,写作
+ 3. It is done　＋ that　 主语从句,写作
+
 ### words sub
  - extolled
  - 

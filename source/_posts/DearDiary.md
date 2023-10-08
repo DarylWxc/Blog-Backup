@@ -356,3 +356,11 @@ This time is just for vent,no music.Aim to angry.
  - I'm sorry
  - Just Watching You
  - Into The Time
+
+## 2023/10/08
+***dear diary,i did the practice last night and i found that i was not enough good at listening,i gotta improve it.So i told the situation to my english teacher and she told me that i have a gift about sense of language.I hope so~But there is one thing that i only knew is i should make more practice by the tricks of making question.I pray for god that wishing i could holding on and never give up and slack.Father bless me please.***
+
+### Background Music
+ - Closer
+ - Across The Ocean
+ - 공야 (空夜)(Lonely night)
