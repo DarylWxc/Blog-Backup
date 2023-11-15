@@ -760,6 +760,7 @@ categories:
   - 根据地图题精听学习表达,地图题单词理解很重要,单词的不同理解for example:past(经过),over,pass
   - 从每个真题的原文总结
   - 同义替换非常重要，然后需要非常注意转折点关键词！！！！！！！！！
+  - 
 
 ## practice process
  - 优先看问题，画圈审题
@@ -792,7 +793,15 @@ categories:
  - 插入语
  - 新话题
  - 补充
- 
+
+## library of connection key words
+ - They weren't(negative)
+ - But
+ - But actually
+ - And
+ - Or Even
+ - Or Perhaps
+
 ## record for the needing
  - still interested
  - advert
@@ -991,9 +1000,250 @@ categories:
  - 38 i didn't hear clearly
  - 39 i didn't hear clearly
  - 40 i didn't hear clearly
+
+## IELTS 16
+### test 1 ---- 4.5
+1. section 1
+ - 8 wrong spelling
+ - 9 wrong spelling
+2. section 2
+ - 11 i didn't hear clearly
+ - 12 i didn't hear clearly
+ - 14 i didn't know the meaning of question
+ - 15 i didn't hear clearly
+ - 17 i didn't hear clearly
+ - 18 i didn't hear clearly
+ - 19 i didn't hear clearly
+ - 20 i didn't hear clearly
+3. section 3
+ - 21 i didn't hear clearly
+ - 22 i didn't hear clearly
+ - 23 i didn't hear clearly
+ - 24 i didn't hear clearly
+ - 25 i didn't hear clearly
+ - 26 i didn't hear clearly
+ - 28 i didn't hear clearly
+ - 29 i didn't hear clearly
+ - 30 i didn't hear clearly
+4. section 4
+ - 32 i didn't hear clearly
+ - 33 i didn't hear clearly
+ - 34 i didn't hear clearly
+ - 35 i didn't hear clearly
+ - 36 i didn't hear clearly
+ - 38 i didn't hear clearly
+ - 39 i didn't hear clearly
+ - 40 i didn't hear clearly
+
+### test 2 ---- 6
+1. section 1
+ - 10 i didn't hear clearly
+2. section 2
+ - 12 i didn't hear clearly
+ - 14 i didn't hear clearly
+ - 20 i didn't hear clearly
+3. section 3
+ - 21 i didn't keep up with my mind
+ - 22 i didn't keep up with my mind
+ - 23 i didn't hear clearly
+ - 24 i didn't hear clearly
+4. section 4
+ - 33 i didn't hear clearly
+ - 34 i didn't hear clearly
+ - 36 i didn't hear clearly
+ - 37 i didn't hear clearly
+ - 39 i didn't hear clearly
+ - 40 i didn't hear clearly
+
+### test 3 ---- 4.5
+1. section1
+ - 1 i didn't hear clearly
+ - 3 i didn't hear clearly
+ - 4 i didn't hear clearly
+ - 5 vocabulary
+ - 10 i didn't hear clearly
+2. section2
+ - 11 i didn't hear clearly
+ - 13 i didn't hear clearly
+ - 14 i didn't hear clearly
+ - 15 i didn't hear clearly
+ - 16 i didn't hear clearly
+ - 17 i didn't hear clearly
+ - 18 i didn't hear clearly
+ - 19 i didn't hear clearly
+3. section3
+ - 21 i didn't hear clearly
+ - 23 i didn't hear clearly
+ - 25 i didn't hear clearly
+ - 26 i didn't hear clearly
+ - 27 i didn't hear clearly
+ - 29 i didn't hear clearly
+ - 30 i didn't hear clearly
+4. section4
+ - 31 i didn't hear clearly
+ - 33 i didn't hear clearly
+ - 36 i didn't hear clearly
+ - 39 i didn't hear clearly
+ - 40 i didn't hear clearly
+
+### test 4 ---- 6
+1. section 1
+ - 4 vocabulary
+ - 6 miss the format
+2. section 2
+ - 14 i didn't hear clearly
+ - 16 miss the options of question
+3. section 3
+ - 25 understanding,i didn't hear clearly
+ - 26 understanding,i didn't hear clearly
+ - 27 understanding,i didn't hear clearly
+ - 28 understanding,i didn't hear clearly
+ - 29 understanding,i didn't hear clearly
+4. section 4
+ - 31 i didn't hear clearly
+ - 32 i didn't hear clearly,i was thinking,not heard that
+ - 36 i didn't hear clearly
+ - 39 vocabulary
+
+## IELTS 17
+### test1 --- 5.0
+1. section1
+ - 1 i don't sure the characteristic of words
+ - 2 i don't add s after answer
+ - 5 i don't figure out what the word i heard
+ - 6 i don't listen clearly
+ - 8 i don't add s after answer
+ - 9 i don't listen clearly
+ - 10 i forgot the number i heard
+2. section2
+ - 12 i miss the answer
+ - 13 i don't know the ham and tuna
+ - 16 i don't listen clearly
+ - 17 i don't listen clearly
+ - 20 i don't listen clearly
+3. section3
+ - 21 i don't understand the meaning of it
+ - 22 i don't listen clearly
+ - 24 i don't listen clearly
+ - 27 vocabulary i don't know the meaning of straightforward
+ - 29 i don't understand the meaning of it
+ - 30 i don't understand the meaning of it
+4. section4
+ - 31 vocabulary i don't know spelling of puzzle
+ - 33 i don't listen clearly
+ - 40 i don't listen clearly
+
+### test2 --- 6.0
+1. section1
+ - 2 i don't listen clearly
+ - 3 i make the wrong of upper case
+ - 4 i don't listen clearly
+ - 5 i don't listen clearly
+ - 7 i don't listen clearly
+
+2. section2
+ - 13 i don't listen clearly
+
+3. section3
+ - 22 i don't listen clearly
+ - 25 i don't listen clearly
+ - 28 i don't listen clearly
+ - 29 i don't listen clearly
+ - 30 i don't listen clearly
+4. section4
+ - 31 the number must add , such as 321,000
+ - 37 i don't listen clearly
+ - 39 i don't listen clearly
+ - 40 i don't listen clearly
+
+### test3 --- 5.5
+1. section 1
+ - 2 i don't listen clearly
+ - 7 wrong spelling
+
+2. section 2
+ - 14 i don't listen clearly
+ - 17 i don't listen clearly
+ - 18 i don't listen clearly
+ - 19 i don't listen clearly
+ - 20 i don't listen clearly
+
+3. section 3
+ - 21 i don't listen clearly
+ - 23 i don't listen clearly
+ - 24 i don't figure out the main question
+ - 25 i don't listen clearly
+
+4. section 4
+ - 32 vocabulary
+ - 34 i can't sure the answer
+ - 36 i don't listen clearly
+ - 37 i don't listen clearly
+ - 38 i don't listen clearly
+ - 39 i don't listen clearly
+ - 40 vocabulary
+
+### test4 --- 5.0
+1. section 1
+ - 2 proununciation of vocabulary
+ - 3 proununciation of vocabulary
+ - 6 i don't listen clearly
+ - 7 vocabulary
+ - 8 proununciation of vocabulary
+ - 9 i don't listen clearly
+2. section 2
+ - 12 i didn't figure out what i listen
+ - 13 vocabulary
+ - 14 i don't listen clearly
+ - 15 i don't listen clearly
+ - 17 i don't listen clearly
+ - 18 i didn't figure out what i listen
+ - 19 i didn't figure out what i listen
+3. section 3
+ - 22 i didn't figure out what i listen
+ - 23 i didn't figure out what i listen
+ - 25 i don't listen clearly
+ - 26 vocabulary
+ - 28 i don't listen clearly
+ - 30 i don't listen clearly
+4. section 4
+ - 31 i don't listen clearly
+ - 34 vocabulary
+ - 36 i don't listen clearly
+ - 37 i don't listen clearly
+ - 39 vocabulary
+ - 40 i don't listen clearly
+
+## IELTS 18
+### test1 --- 5.5
+1. section1
+ - 2 i didn't listen clearly
+2. section2
+ - 11 i didn't figure the mearning of sentence
+ - 13 i didn't listen clearly
+ - 14 i miss the answer when i listen to last question
+ - 15 i miss the answer when i listen to last question
+ - 16 i didn't figure the mearning of sentence
+3. section3
+ - 22 i didn't listen clearly
+ - 23 i didn't figure the mearning of sentence
+ - 25 i didn't figure the mearning of sentence
+ - 26 i didn't figure the mearning of sentence
+ - 29 i didn't have enough time for looking question
+ - 30 i didn't have enough time for looking question
+4. section4
+ - 31 vocabualry
+ - 34 mistake the key word,didn't listen clearly to the word 'caused'
+ - 35 i didn't hear clearly to 'placed on'
+ - 38 i didn't listen clearly
+ - 39 i didn't find the answer sentence
 ## words collection
  - emo
  - bgm
  - be
  - he
- - privilage
+
+## transition words
+ - and
+ - like
+ - 

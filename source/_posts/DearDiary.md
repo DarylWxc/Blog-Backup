@@ -364,3 +364,18 @@ This time is just for vent,no music.Aim to angry.
  - Closer
  - Across The Ocean
  - 공야 (空夜)(Lonely night)
+
+## 2023/10/17
+***dear diary,i haven't written the diary for several days.Now i am continu writing it.I have finished the Listening test of IELTS 16 and got a worst score.I was frustrate about it.It means that i need to do more practice for improving my english level.God please bless with me that i won't give up and be slack about learning.I was almost adjust my life statu and finished my daily plan.Come on and achieve it!!!Never give up and keep on practicing everyday.***
+
+### Background Music
+ - Dalparan (달파란)、Bongseok Levitating Score
+ - Park Won (박원) It's you
+ - Boramiyu (보라미유) Oopsy
+ - Ending Moving Original SoundTrack
+
+## 2023/10/30
+***dear diary,i got a long time not writing the diary,actually my learning status were not good,i get addict to play the video games or watch the TV.I became the man which i really hate.I was feel so sorry about that.I beg father to bless with me,i want to have the willpower again.Strive to my learning.You can do it.***
+
+### Background Music
+No Music

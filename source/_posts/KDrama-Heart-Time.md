@@ -75,6 +75,8 @@ i will take a screenshot about the KDrama Beautiful time and record it according
 2. episode 14 42:41
 3. episode 7 62:18
 4. episode 8 22:23
+5. episode 6 65:02
+6. episode 7 00:27
 
 ## What's Wrong with Secretary Kim
 1. episode 14 61:42
@@ -83,3 +85,46 @@ i will take a screenshot about the KDrama Beautiful time and record it according
 1. episode 1 53:40
 2. episode 7 29:51
 3. episode 2 39:37
+
+## Moving
+1. episode 3 20:51
+2. episode 3 39:19
+3. episode 4 20:28
+4. episode 9 16:59
+5. episode 9 23:42
+6. episode 12 30:55
+7. episode 20 18:51
+8. episdoe 8 50:43
+
+## Destined with you
+1. episode 10 40:01
+2. episode 10 58:37
+3. episode 11 18:34
+4. episode 11 38:10
+5. episode 12 32:40
+6. episode 12 49:52
+7. episode 15 03:54
+8. episode 15 12:54
+9. episode 15 34:27
+10. episode 15 49:51
+11. episode 16 19:56
+12. episode 16 30:34
+13. episode 16 54:13
+
+## Start Up
+1. episode 4 00:41
+2. episode 4 55:49
+3. episode 4 71:20
+4. episode 6 54:23
+5. episode 7 74:00
+6. episode 8 52:49
+7. episode 8 73:24
+8. episode 11 30:14
+9. episode 12 00:46
+10. episode 13 02:51
+11. episode 13 04:45
+12. episode 13 38:01
+13. episode 13 67:02
+14. episode 14 71:21
+15. episode 15 07:40
+16. episode 16 72:19
