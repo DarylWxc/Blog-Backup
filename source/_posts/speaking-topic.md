@@ -21,3 +21,15 @@ We care about the efficiency and functions of the web page.It is not easy for us
 
 # Hobby
 My hobby is Music and Games.My life can't without the Music.I listen to several styles of Music.The melodic progressive house is my favorite.I just enjoy the melody.And BPM(Beat Per Minute) of that style is about 120 to 130.
+
+# Trick
+ - Don't be so hard on yourself
+ - Answer the questions directly
+ - Avoid awkward silence
+ - Be smart and be brave
+ - Keep it simple.Lay the foundation
+ - Recite some questions,use the time of p2 well for preparing
+ - Your psychology is very important(remain stable,confident,regard the examiner as your friend)
+ - Speak English plz & Practice(face the problems,avoidness can't resolve the problems)
+ - If you practice more,you will not be nervous
+ - Record & Introspection -- Improvement

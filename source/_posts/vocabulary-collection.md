@@ -440,13 +440,166 @@ categories:
  # 2023/11/15
  ## listening
  - lively
- - youth
  - footpath(人行道)
  - up through(向上通过)
  - walk towards
  - gender
  - weren't
- - 
+ - canal(运河,导管)
+ - bordered to(接壤)
+ - amendment(修订)
+ - shells(壳,炮弹)
  ## writing
  ## speaking
  ## reading
+
+ # 2023/11/16
+ ## listening
+ - patients
+ - passion
+ - attitudes
+ - software
+ - grass(草地)
+ - scarf(围巾)
+ - refurbished(再装修)
+ - flute(长笛)
+ - oboe(双簧管)
+ - cattle(牛,牲畜)
+ - continents(州,大陆)
+ - worn(ware)---past
+ - discount(认为...,低估)
+ - trivial(不重要的)
+ - esteem(尊重)
+ - as far as(就..而言)
+ ## writing
+ ## speaking
+ ## reading
+
+ # 2023/11/17
+ ## listening
+ - observation
+ - theme
+ - castle
+ - tuition
+ - peak
+ - grant(同意,批准)
+ - erosion(腐蚀)
+ - preserve(保持,保留)
+ ## writing
+ ## speaking
+ ## reading
+
+ # 2023/11/18
+ ## listening
+ ## writing
+ ## speaking
+ - Outrageous(离谱)
+ - boast(吹嘘)
+ - perspective(观点)
+ - aspect(方面)
+ - naked(裸露的)---bare(a part of your body show up)
+ ## reading
+ - ailments(疾病)
+ - cast(铸造,投,扔)
+ - count on(依赖,指望)
+ - transport(运输,交通)
+ - redecorate(再装修)
+ - preference(喜好,偏好)---priority
+ - handy(方便的)
+ - ahead(朝前)---go ahead(开始,接着) --- ahead of(在...前面)
+ - contaminent(污染)---pollute(vt)
+
+ # 2023/11/20
+ ## listening
+ - cello(大提琴)
+ - trumpet(小号,喇叭)
+ ## writing
+ ## speaking
+ - network delay(网络延迟)
+ ## reading
+
+ # 2023/11/21
+ ## listening
+ - had(hed)
+ - wondered if
+ - could(ked)
+ - as(es)
+ - temporary(tempreri)
+ - are(e)
+ - elbow(肘部,肘击)
+ - wrist(手腕,关节)
+ - sprain(扭伤)
+ - x-ray(x光照)
+ - an ice pack(冰袋)
+ - walking stick(拐杖)
+ - leaflet(传单)
+ - settler(移民,殖民)---settlement(解决,支付,结算)
+ - crops(庄稼)
+ - maize(玉米)
+ - wool(羊毛)
+ - ware(商品)---wares
+ - reefs(礁体)
+ - demand(需求)
+ - nationally---internationally
+ - regions(地区)
+ - first up
+ - night out
+ - on in
+ - divided into
+ - mineral
+ - amongst
+ - houses
+ - resort(度假胜地-求助)
+ - apparently
+ - bath
+ - it's a
+ - out here
+ - while
+ - nursery(婴儿室)
+ - wheelcharis(轮椅)
+ - for instance
+ - heavier
+ - towing
+ - ahead of
+ - built up(建立,城区)
+ - ordinary
+ - consumption
+ - cohabit(同居)
+ - upper
+ - ethnic
+ - status
+ - surveys(测量,调查)
+ - premium(额外消费)
+ - start
+ - sidewall(C侧壁)
+ - in that
+ - prominent
+ - rate
+ - various
+ - fare
+ - alert
+ - compulsory(强制的,必修的)
+ - seminars
+ - apart from(除了)
+ - loan
+ - lid
+ - thrive
+ - to
+ - weave(woven)
+ - sew(sewn)
+ - stitch(缝,缝补)
+ - respondents
+ ## writing
+ ## speaking
+ ## reading
+
+ # 2023/11/22
+ ## listening
+ ## writing
+ ## speaking
+ ## reading
+ - uninhabited(未居住)
+ - occupant(居住者)
+ - dummy(假的)
+ - intractable(棘手的,复杂的)
+ - otherwise(否则,另外,别的方式)

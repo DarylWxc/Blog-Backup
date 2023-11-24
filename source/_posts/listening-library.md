@@ -760,7 +760,6 @@ categories:
   - 根据地图题精听学习表达,地图题单词理解很重要,单词的不同理解for example:past(经过),over,pass
   - 从每个真题的原文总结
   - 同义替换非常重要，然后需要非常注意转折点关键词！！！！！！！！！
-  - 
 
 ## practice process
  - 优先看问题，画圈审题
@@ -801,6 +800,7 @@ categories:
  - And
  - Or Even
  - Or Perhaps
+ - So
 
 ## record for the needing
  - still interested
@@ -1237,11 +1237,35 @@ categories:
  - 35 i didn't hear clearly to 'placed on'
  - 38 i didn't listen clearly
  - 39 i didn't find the answer sentence
-## words collection
- - emo
- - bgm
- - be
- - he
+## answer format
+### the words can be all upper case
+### date format
+ - year + month (or) month + year both OK
+ - FEBRUARY 2020 (or) 2020 FEBRUARY
+ - month + day (or) day + month both OK
+ - FEBRUARY + 29 (or) 29 FEBRUARY
+ - year.month.day --- 2020.02.09
+### time format
+ - 5.30PM
+ - 5PM
+ - follow the orginal record
+### money & time range & distance & weigh
+ - 1 number + 1 word
+ - $5 (or) 5 pound
+ - 5 SECONDS/MINUTES/HOURS/DAYS/MONTHS/YEARS/CENTURIES
+ - 5 MILES/KILOMETERS/METERS/INCHES/KILOGRAMS 
+### postcode & percentage & fraction(分数)
+ - 4455666777
+ - 5%
+ - ONE FIFTH or ONE-FIFTH or 1/5
+ - 49
+### ONE word / TWO word / THREE word
+ - ONE word --- noun
+ - TWO word --- adj + noun
+ - THREE word --- a/an/the adj + noun
+### Ordinal number word(序数词)
+ - THIRD SECOND FIRST FOURTH
+ - 20TH
 
 ## transition words
  - and
