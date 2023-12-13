@@ -14,7 +14,6 @@ categories:
  - furnitures
  - appear
  - discrepancy
- - perspectives
  - Statue of Liberty
  - Big Ben
  - The Eiffel Tower
@@ -40,9 +39,7 @@ categories:
  - maternity(母性)
  - cub(幼兽)
  - sled(雪橇)
- - monumental(不朽的)
  - chamber(室)
- - cognitive(认知的)
  - disruptive(破坏的)
  - peripheral(周边的)
 ## listening
@@ -67,17 +64,15 @@ categories:
  - establish(建立)
 ## reading
  - destructive(破坏的)
- - alltitude(态度，看法)
+ - attitude(态度，看法)
  - coral(珊瑚)
  - peril(危险)
- - cognitive(认知的)
  - retaliate(报复，反击)
  - cane(甘蔗)
 ## writing
  - container(容器)
  - quantity(数量)
  - commodity(商品)
- - crop(农作物)
  - spread(传播)
  - browse(浏览)
  - inspiration(灵感)
@@ -105,7 +100,6 @@ categories:
  - cover(保险)
  - essential(必要的，不可少的)
  - plus(好处，优点)
- - archaeological(考古的)
  - linen(亚麻)
  ## writing
  ## reading
@@ -176,7 +170,6 @@ categories:
  - capitalism
  - opportunity
  - motivation
- - obesity
  ## writing
  ## reading
  ## speaking
@@ -352,7 +345,6 @@ categories:
  - irrespective(无关的,不考虑的)
  - insulate(使隔离)
  - packed(塞满了)
- - abide(遵守)
  - booklets(小册子)
  - babysitting(托婴服务,临时)
  - plausible(合理的)
@@ -455,7 +447,6 @@ categories:
 
  # 2023/11/16
  ## listening
- - patients
  - passion
  - attitudes
  - software
@@ -497,10 +488,10 @@ categories:
  - boast(吹嘘)
  - perspective(观点)
  - aspect(方面)
- - naked(裸露的)---bare(a part of your body show up)
+ - naked(裸露的)---bare(a part of your body show out)
  ## reading
  - ailments(疾病)
- - cast(铸造,投,扔)
+ - cast(铸造,投,扔,施法)
  - count on(依赖,指望)
  - transport(运输,交通)
  - redecorate(再装修)
@@ -571,7 +562,7 @@ categories:
  - surveys(测量,调查)
  - premium(额外消费)
  - start
- - sidewall(C侧壁)
+ - sidewall(侧壁)
  - in that
  - prominent
  - rate
@@ -603,3 +594,166 @@ categories:
  - dummy(假的)
  - intractable(棘手的,复杂的)
  - otherwise(否则,另外,别的方式)
+
+ # 2023/11/29
+ ## listening
+ ## writing
+ ## speaking
+ ## reading
+ - abided(居住,停留,不能容忍)--abide v(遵守,接受,逗留)
+ - burn up(烧毁,烧光)
+ - inactive(闲置的,不活动的,懒散的)
+ - smash into(猛撞)
+ - stretch(延展,伸出)
+ - steer away(驶离)---steer v(操纵,引导)
+ - set off(动身,出发)
+ - vent n(出口,漏孔)---v(发泄,表达)
+ - pressurise vt(对...加压)
+ - leftover adj(剩余的)
+ - carry out(持续,进行)
+ - line up(对齐,排队)
+
+ # 2023/11/30
+ ## listening
+ - up in the air(悬而未决,未决定)
+ - antique(古代的,古老的)
+ - foyer(休息室,门厅)
+ - gracious(亲切的)
+ - put out(扑灭,伸出,出版)---put off(推迟,延迟)
+ - specialty(专长,特点)
+ - well round(全面)
+ - catch up(赶上)
+ - get along with(相处,发展)
+ - sleazy(肮脏的,低劣的)
+ - wrap(包裹)
+ - installation(安装,布施)
+ - aside from(除外)
+ - velvet(天鹅绒,丝绒)
+ - reflect(反射,反应)
+ - seasoned(晾干的,调好味的,富有经验的)
+ ## writing
+ ## speaking
+ ## reading
+ - culminate v(终结,结束,达到顶点)
+ - election(选举)
+ - behind(在...后面,低于)
+ - tip off(向...泄密/透露消息)
+ - conservation(保存,保护)--conversation(谈话)
+ - pond(池塘)
+ - halve(减半,对半分)
+ - drown v(淹没,压过)
+ - effort n(努力,力气,精力,结果)
+ - abhor vt(痛恨,憎恶)
+ - feigning v(假装,假扮)-- feign vt/i(假装,装作)
+ - falsehood n(虚假,不真实,谎言)
+ - swindle v/n(诈骗,骗局)
+ - devious adj(偏僻的,弯曲的)
+ - perspire vt/i(流汗,分泌,使...流汗)
+ - respiration n(呼吸,一次呼吸)--respirate v(对...进行人工呼吸)
+ - grin v/n(露齿笑,咧嘴笑)---grim adj(严肃的,坚定的)
+
+ # 2023/12/04
+ ## listening
+ - itinerary n(行程,游记)
+ - roughing v/n(粗野,冲撞)
+ - genuine adj(真正的)
+ - saline adj/n(盐的,含盐的,盐溶液,生理盐水)
+ - dissolved adj/v(溶解的,溶化的,使溶解,解散)
+ - has reviewed
+ - greed n(贪婪,贪吃)--- greedy adj(贪婪的,贪吃的,渴望的)
+ - polish v/n/adj(波兰的,波兰人,擦光,擦亮,抛光,亮光剂)
+ ## writing
+ ## speaking
+ ## reading
+ - one in five(1/5)
+ - encounter v(遭遇,偶遇,邂逅)
+ - speech n(演讲,发言,说话,语言)
+ - state v(公布,陈述,说明)
+ - over time(随着时间推移)
+ - following(随...之后)
+ - disrupt v(中断,打扰) - disruption n(中断,扰乱)
+ - perception n(看法,认识,感觉)
+ - interplay n/v(相互影响,相互作用)
+ - determine v(决定,控制)
+ - over prep(统治,支配)
+ - interrupt v(打断,打扰)
+ - efficient adj(高效的)
+ - intrigue v/n(激发...兴趣,阴谋,密谋策划)
+ - cult n(迷信,崇拜,偶像)
+ - abolish v(废除,取消)
+ - plants n(工厂)
+ - turn out(结果是,参加,生产,证明是)
+ - stagger v/n(蹒跚,使震惊,使错开)
+ - apply to (适用于...)
+ - toute vt(吹捧)
+ - cram v(塞进,挤满,填鸭式学习) n(突击准备,死记硬背,极度拥挤)
+ - reign n/v(,统治期,任期,统治,支配)
+ - haphazard adj(无计划的,没条理的)---hazard v/n(危机,危害)
+ - hasty adj(匆忙的,仓促的,草率的)
+ - reversion n(逆转,回复,归还)
+
+ # 2023/12/06
+ ## listening
+ - escape v/n(逃跑,逃离,泄漏)
+ - eaten
+ - soap
+ - thrifty adj(节俭的,节约的)
+ - cleansing adj/n/v(清洁的,清洗,净化)
+ - scare v/n(惊恐,吓唬)
+ - live up (兑现,满足,达到)
+ ## writing
+ ## speaking
+ ## reading
+ - be rooted in v(根源在于...,由什么产生)
+ - dip into(沉浸...)
+ - pine n(松树,松木)
+ - strip v/n(除去,撕掉,条，带)
+ - intent adj/n(专注的,目的,意图)
+ - scale off(剥落,剥皮)
+ - row v(划船,吵架)
+ - mount v(组织,开展,爬上)
+ - brute n/adj(野蛮人,粗野的人,不理智的) --- brutal adj(野蛮的,凶残的)
+ - sheet n/v(床单,被单,工作表,(布)盖上,裹上)
+ - peg n/v(挂钩,挂钉,用...钉固定)
+ - precipitation n(降水,沉淀)
+ - live off(依靠...为生)
+ - culprit n(罪犯,问题的起因)
+ - torrent n/v(洪流,狂潮,在急流中移动)
+ - buildup n(增强,发展,形成)
+ - term v(把...称为,把...叫做)
+ - subvert v(颠覆,破坏)
+ - sink into (陷入)
+ - current n(水流,气流,电流,趋势)
+
+ # 2023/12/11
+ ## listening
+  - hammer 
+  - nearly
+  - mistake her
+  - interactive
+ ## writing 
+ ## speaking
+ ## reading
+ - pittance n(少量,小额施舍,少量津贴)
+ - game n(猎物)
+ - fruit v(结果实)
+ - weigh v(称重,衡量,认真考虑)---n(在航行中)
+ - lie v(在于,坐落)---v(撒谎)---v(平躺,平卧)---n(方向,位置,谎言)
+ - least adj(最少的,最小的)
+
+# 2023/12/12
+## listening
+ - as adv(同样,一样,例如)---conj(像...一样,由于,因为,尽管)---prep(作...,为...,作为...)
+ - 
+## writing 
+## speaking
+## reading
+ - chant v/n(反复唱,反复喊,诵唱)
+ - ritual n(仪式,典礼,习惯)
+ - neural adj(神经的,神经系统的) - neutural adj/n(中立的,中立国,空档)
+ - circuit n(电路,回路,环线) -  v(环行)
+ - Mandarin n(橘子,普通话)
+ - hang onto (坚持,保持,抓住)
+ - trance n/v(恍惚,出神,使...发呆)
+ - conclusive adj(结论性的,毫无疑问的) --- inconclusive adj(不确定的,非决定性的)
+ - affinity n(喜好,密切,亲和,适应)
