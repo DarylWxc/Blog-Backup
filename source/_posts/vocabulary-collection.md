@@ -44,7 +44,7 @@ categories:
  - peripheral(周边的)
 ## listening
  - privilege(特权)
- - rationale(基本原理)
+ - rationale(基本原理) --- rational adj(合理的,理性的)
  - perching(栖息)--perch
  - lizard(蜥蜴)
  - continuity(连续性)
@@ -247,7 +247,7 @@ categories:
  # 2023/11/02
  ## listening
  ## writing
- - disseminate
+ - disseminates
  - garbage
  - necessary
  - guide
@@ -370,7 +370,7 @@ categories:
  - within(在内)
  - knee(膝盖)
  - thermometer(温度计)
- - records(pronunciation)
+ - records(pronunciation) --- a plural format
  - politician(政客)
  ## writing
  ## speaking
@@ -387,7 +387,7 @@ categories:
  - Olympics
  - stuttle(班车,往返)
  - complimentary(免费的,赠送的)
- - youth(童年)
+ - youth(童年,青年)
  - cornet(短号)
  - take up(占用,接受)
  - cabins(小屋,隔间)
@@ -403,7 +403,7 @@ categories:
  - tongue(舌头)
  - setback(阻碍,挫折)
  - fortune(财富,巨款)
- - rare(稀有的,稀少的)
+ - rare / reə(r) / adj(稀有的,稀少的) --- rear / rɪə(r) / adj(后面的)
  - college(学院)
  - summit(顶峰)
  - ascent(上升,上坡)
@@ -418,7 +418,7 @@ categories:
  - premiere(首次)
  - date back(追溯)
  - breakage(破坏,毁坏)
- - client(客户)
+ - client / ˈklaɪənt / n(客户)
  - fascinating(迷人的)
  - sticking to(坚持)
  - restriction(限制)
@@ -454,7 +454,7 @@ categories:
  - scarf(围巾)
  - refurbished(再装修)
  - flute(长笛)
- - oboe(双簧管)
+ - oboe / ˈəʊbəʊ / n(双簧管)
  - cattle(牛,牲畜)
  - continents(州,大陆)
  - worn(ware)---past
@@ -470,8 +470,8 @@ categories:
  ## listening
  - observation
  - theme
- - castle
- - tuition
+ - castle / ˈkɑːs(ə)l /
+ - tuition / tjuˈɪʃ(ə)n /
  - peak
  - grant(同意,批准)
  - erosion(腐蚀)
@@ -502,8 +502,8 @@ categories:
 
  # 2023/11/20
  ## listening
- - cello(大提琴)
- - trumpet(小号,喇叭)
+ - cello / ˈtʃeləʊ / n(大提琴)
+ - trumpet / ˈtrʌmpɪt / n(小号,喇叭)
  ## writing
  ## speaking
  - network delay(网络延迟)
@@ -564,7 +564,7 @@ categories:
  - start
  - sidewall(侧壁)
  - in that
- - prominent
+ - prominent / ˈprɒmɪnənt / adj(重要的,著名的)
  - rate
  - various
  - fare
@@ -591,7 +591,6 @@ categories:
  ## reading
  - uninhabited(未居住)
  - occupant(居住者)
- - dummy(假的)
  - intractable(棘手的,复杂的)
  - otherwise(否则,另外,别的方式)
 
@@ -624,17 +623,17 @@ categories:
  - well round(全面)
  - catch up(赶上)
  - get along with(相处,发展)
- - sleazy(肮脏的,低劣的)
+ - sleazy / ˈsliːzi / adj(肮脏的,低劣的)
  - wrap(包裹)
  - installation(安装,布施)
  - aside from(除外)
- - velvet(天鹅绒,丝绒)
+ - velvet / ˈvelvɪt / n(天鹅绒,丝绒)
  - reflect(反射,反应)
  - seasoned(晾干的,调好味的,富有经验的)
  ## writing
  ## speaking
  ## reading
- - culminate v(终结,结束,达到顶点)
+ - culminate / ˈkʌlmɪneɪt / v(终结,结束,达到顶点)
  - election(选举)
  - behind(在...后面,低于)
  - tip off(向...泄密/透露消息)
@@ -654,11 +653,11 @@ categories:
 
  # 2023/12/04
  ## listening
- - itinerary n(行程,游记)
- - roughing v/n(粗野,冲撞)
- - genuine adj(真正的)
+ - itinerary / aɪˈtɪnərəri / n(行程,游记)
+ - roughing / ˈrʌfɪŋ / v/n(粗野,冲撞)
+ - genuine / ˈdʒenjuɪn / adj(真正的)
  - saline adj/n(盐的,含盐的,盐溶液,生理盐水)
- - dissolved adj/v(溶解的,溶化的,使溶解,解散)
+ - dissolved / dɪˈzɒlvd / adj/v(溶解的,溶化的,使溶解,解散)
  - has reviewed
  - greed n(贪婪,贪吃)--- greedy adj(贪婪的,贪吃的,渴望的)
  - polish v/n/adj(波兰的,波兰人,擦光,擦亮,抛光,亮光剂)
@@ -668,7 +667,6 @@ categories:
  - one in five(1/5)
  - encounter v(遭遇,偶遇,邂逅)
  - speech n(演讲,发言,说话,语言)
- - state v(公布,陈述,说明)
  - over time(随着时间推移)
  - following(随...之后)
  - disrupt v(中断,打扰) - disruption n(中断,扰乱)
@@ -680,7 +678,7 @@ categories:
  - efficient adj(高效的)
  - intrigue v/n(激发...兴趣,阴谋,密谋策划)
  - cult n(迷信,崇拜,偶像)
- - abolish v(废除,取消)
+ - abolish / əˈbɒlɪʃ / v(废除,取消)
  - plants n(工厂)
  - turn out(结果是,参加,生产,证明是)
  - stagger v/n(蹒跚,使震惊,使错开)
@@ -694,12 +692,12 @@ categories:
 
  # 2023/12/06
  ## listening
- - escape v/n(逃跑,逃离,泄漏)
- - eaten
- - soap
- - thrifty adj(节俭的,节约的)
- - cleansing adj/n/v(清洁的,清洗,净化)
- - scare v/n(惊恐,吓唬)
+ - escape / ɪˈskeɪp / v/n(逃跑,逃离,泄漏)
+ - eaten / ˈiːt(ə)n /
+ - soap n(肥皂) --- v(擦肥皂) --- soup n(汤)
+ - thrifty / ˈθrɪfti / adj(节俭的,节约的)
+ - cleansing / ˈklenzɪŋ / adj/n/v(清洁的,清洗,净化)
+ - scare / skeə(r) / v/n(惊恐,吓唬)
  - live up (兑现,满足,达到)
  ## writing
  ## speaking
@@ -744,7 +742,6 @@ categories:
 # 2023/12/12
 ## listening
  - as adv(同样,一样,例如)---conj(像...一样,由于,因为,尽管)---prep(作...,为...,作为...)
- - 
 ## writing 
 ## speaking
 ## reading
@@ -752,8 +749,348 @@ categories:
  - ritual n(仪式,典礼,习惯)
  - neural adj(神经的,神经系统的) - neutural adj/n(中立的,中立国,空档)
  - circuit n(电路,回路,环线) -  v(环行)
- - Mandarin n(橘子,普通话)
+ - Mandarin / ˈmændərɪn / n(橘子,普通话)
  - hang onto (坚持,保持,抓住)
  - trance n/v(恍惚,出神,使...发呆)
  - conclusive adj(结论性的,毫无疑问的) --- inconclusive adj(不确定的,非决定性的)
  - affinity n(喜好,密切,亲和,适应)
+
+ # 2023/12/13
+ ## listening
+ - lamp n/v(灯,光源,照明)
+ - basin n(盆,洗涤槽,盆地,内湾)
+ - curb v/n(控制,抑制)
+ - bins n(箱子,工具屉)
+ - cite n/v(引用,援引)
+ - italics / ɪˈtælɪks / n(斜体字,斜体)
+ - sufficient / səˈfɪʃ(ə)nt / adj(充足的)
+ - tie v/n(绑,领带,连接)
+ - drier / ˈdraɪə(r) /
+ - wind
+ - evaporated
+ - fairly mild
+ - other
+ - poison n/v(毒药,有害的思想,毒杀,污染)---adj(有毒的)
+ ## writing 
+ ## speaking
+ ## reading
+
+  # 2023/12/14
+  ## listening
+  ## writing 
+  ## speaking
+  ## reading
+  - foam n/v(泡沫,气泡,起泡)
+  - depend upon (依赖,信任)
+  - versatile adj(多功能的,多用途的)
+  - sake n(利益,好处,目的)
+  - address v(演说,演讲,处理,设法解决)
+  - rhyme n/v(短诗,儿歌,押韵) --- rhythm n(节奏,韵律,节拍)
+  - absurdity n(荒谬,荒唐,荒谬的言行)
+  - target v(把...作为目标)
+
+  # 2023/12/15
+  ## listening
+  - board / bɔːd / v(登机,船,火车,住校,寄宿,宠物暂寄)
+  - confiscate / ˈkɒnfɪskeɪt / v(没收,查抄,充公,罚没) --- adj(被没收的)
+  - perishable / ˈperɪʃəb(ə)l / adj(易腐烂的,易变质的) --- n(易腐败的东西)
+  - wipe out (消灭)
+  - fertile (肥沃的,富饶的)
+  - sharp adj(锋利的,尖的,清晰的,剧烈的) --- adv (正点,准时)
+  - half that
+  - dens n/v(兽窝,兽穴,驱赶)
+  - depth
+  - admiration n(钦佩,赞美)
+  - instill v(逐渐灌输,徐徐滴入)
+  - uneasiness
+  ## writing 
+  ## speaking
+  ## reading
+
+  # 2023/12/18
+  ## listening
+  ## writing 
+  ## speaking
+  ## reading
+  - patent n(专利,专利证书) --- v(获得...专利权,授予专利)
+  - rip off (欺骗或剥削,宰客)
+  - hand on(传递,传给)
+  - ditch n(沟渠,壕沟) --- v(挖沟,修渠,摆脱,抛弃)
+  - margin n(页边空白,差额,利润)
+  - hand-to-mouth adj(仅够糊口,勉强维持生计的)
+  - rave v(语无伦次,赞不绝口) --- n(赞扬,舞蹈音乐,短暂的迷恋)
+  - dummy n(假人,傀儡) --- adj(假的,仿真的)
+  - over the moon (兴高采烈)
+  - ahead of the pack (表现更好,领先)
+  - tap into (挖掘,利用)
+  - get on (上车,进展,了解)
+  - claim v(声称,索取,索要) --- n(声称,断言,索赔,权利)
+  - stir v(搅拌,搅和,萌发) --- n(搅动,愤怒,激动)
+  - nozzle n(管口)
+  - powder n(粉,粉末,扑面粉,火药) --- v(往上抹粉,撒粉于,使...成粉)
+  - unilateral adj(单方的,单边的,单侧的)
+  - sympathetic adj(同情的,赞同的,交感神经的)
+  - temperament n(气质,性格)
+  - demanding adj(费时费力的,苛刻的) --- v(强烈要求,需求)
+  - intimidate v(恫吓,威胁) --- intimidating adj(令人紧张不安的,令人胆怯的)
+
+  # 2023/12/19
+  ## listening
+  - procedure n(手续,步骤,程序)
+  - exotic adj(奇异的,异国风情的) --- n(外来植物,外来动物)
+  ## writing 
+  ## speaking
+  ## reading
+  - representation n(代表,表现,象征)
+  - confection n(糖果,蜜饯)
+  - carry through (贯彻,完成,坚持下去)
+  - fare n(交通费用,乘客,饭菜) --- v(进展,表现)
+  - take root v(扎根,生根) --- take root in
+  - hospitable adj(好客的,热情友好的,环境适宜的)
+  - effective adj(有效的,实际的,事实上的)
+  - uproot v(根除,迁离)
+  - via prep(经由,经过地方,通过,借助于(某种手段或人))
+
+  # 2023/12/20
+  ## listening
+  - exaggerated / ɪɡˈzædʒəreɪtɪd / adj(夸张的,夸大的) --- v(夸张,夸大)
+  - compliant / kəmˈplaɪənt / adj(服从的,顺从的,符合的,一致的)
+  - suspicious adj(可疑的,怀疑的,不信任的)
+  - advise against (劝阻,建议不要)
+  - criminal adj(犯罪的,犯法的,刑事的) --- n(罪犯)
+  - oral
+  - spotty adj(多丘疹的,多粉刺的,质量不一的,有好有坏的)
+  - inexplicit adj(含糊的,暧昧的,不明了的)
+  - time v(为..安排时间,把握时机,为...计时,测定时间)
+  - job fair (招聘会)
+
+  ## writing 
+  ## speaking
+  ## reading
+  - aerial / ˈeəriəl / adj(航空的,飞机上的,空中的) --- n(天线)
+  - unparallel adj(不平行的,无法匹敌的)
+  - intertidal adj(潮间带的,高潮线与低潮线之间的)
+  - set up(建立,创立,设立)
+
+  # 2023/12/21
+  ## listening
+  - purse n(钱包,皮夹子,手提包,手袋) --- v(噘嘴,撮x起嘴唇表示反对)
+  - broadly adv(广泛地,普遍地)
+  - refresh v(使...恢复精神,使消除疲劳,提醒,翻新) --- n(计算机-刷新)
+  - on as
+  - take on (承担,接受,雇佣,竞争)
+  - sponsor v/n(赞助者,赞助商,赞助) --- sponsorship n(赞助,赞助款,资助)
+  - era n(时代,年代)
+  - throngs / θrɒŋ / n(一大群,众多) --- v(蜂拥,群集)
+  - riddle / ˈrɪd(ə)l / n(谜语,谜一般的事) --- v(猜,解谜)
+  ## writing 
+  ## speaking
+  ## reading
+
+  # 2023/12/22
+  ## listening
+  ## writing 
+  ## speaking
+  ## reading
+  - carcass n(动物尸体,畜体,身躯)
+  - sought-after adj(受欢迎的,很吃香的)
+  - referred to (查阅或参考获取信息,与...有直接联系或关系,简要提及)
+  - fret v(烦恼,发愁,形成) --- n(品,烦躁,苦恼)
+  - familiar adj(熟悉的,常见的,普通的,非正式的,随和的) --- n(知己,密友)
+  - faith n(信任,信心,信念,宗教,忠诚)
+  - anbivalent adj(矛盾的,模棱两可的)
+  - force n(暴力,武力,力,力量)
+  - mobilise v(动员,调动,使...流通)
+  
+  # 2023/12/26
+  ## listening
+  - garage / ˈɡærɑːʒ / n(车库,加油站,汽车修理厂) --- v(把...送入车库,修车厂)
+  - petrol / ˈpetrəl / n(汽油)
+  - downright adj(彻头彻尾的,十足的) --- adv(same to obvious)
+  - obscene adj(淫秽的,暴力的,数量大得惊人的)
+  - toaster n(烤面包炉)
+  - livepool n(利物浦,英国的一个城市)
+  - rigid adj(僵化的,死板的刚硬的)
+  - wise adj(明智的,高明的) --- v(了解,知道)
+  - two thirds (2/3)
+  - Trends
+  - cigar / sɪˈɡɑː(r) / n(雪茄)
+  - clubroom n(俱乐部聚会室)
+  - panoramic / ˌpænəˈræmɪk / adj(全景的,远景的)
+  - feat
+  - facade n(建筑正面,立面,假象,伪装)
+  - of fun as well
+  - watch over (照看,监视,关注,关心,守护,保护)
+  - may anx(可能,也许,祝,愿)
+  ## writing 
+  ## speaking
+  ## reading
+  - belch v(打嗝,喷出) --- n(打嗝,冒烟)
+  - infrastructure n(基础设施,基础建设)
+  - status quo (现状,维持现状)
+  - dedicate v(致力于,献身于)
+  - wheat n(小麦)
+  - misrepresent v(歪曲,误传,虚伪陈述)
+  - snag n(障碍,突出物) --- v(使...剐破,妨碍,被绊住)
+  - lay waste (完全摧毁)
+
+  # 2023/12/27
+  ## listening
+  - alarm
+  - fence
+  - incidental adj(附带的,次要的) --- n(杂费,附带事件)
+  - wear-and-tear (磨损)
+  - drainage n(排水系统,排水)
+  - dozen n(一打,十二个,大量) 
+  - sparse / spɑːs / adj(稀少的,稀疏的)
+  - citation / saɪˈteɪʃ(ə)n / n(引文,引语)
+  - appendix / əˈpendɪks / n(阑尾,附录)
+  - stay up-to-date (与时俱进)
+  - volcanic
+  - sea shores
+  - silver
+  - regard Q / kjuː / as 2 / tuː /
+  ## writing 
+  ## speaking
+  ## reading
+
+  # 2023/12/28
+  ## listening
+  ## writing 
+  ## speaking
+  ## reading
+  - pitch n(场地,程度,球场,音准,音高) --- v(扔,抛,掷,投球)
+  - ticklish adj(不安定的,不稳定的,难对付的,易痒的)
+  - pant n(气喘,喘息) --- v(气喘,喘息)
+  - laugh v(笑,发笑,嘲笑) -- n(笑,笑声) --- laughter n(笑,笑声)
+  - primate n(灵长目动物,大主教,首领) --- adj(灵长目动物的)
+  - rather than (而不是,不是...而是) --- 用于转折,没有承接
+
+  # 2023/12/28
+  ## listening
+  - already
+  - the middle of
+  - sneak up on (慢慢到来,悄悄走近)
+  - breath n(呼吸,气息,一丝,丝毫) --- breathe v(呼吸,呼出,吐出,吸入)
+  - on age /eɪdʒ/ --- on edge /edʒ/
+  - model /ˈmɒd(ə)l / n(模式,模型) --- v(当模特,模仿) --- adj(模范的,榜样的) --- module /ˈmɒdjuːl/ n(组件,模件)
+  - organism n(生物,有机体)
+  ## writing 
+  ## speaking
+  ## reading
+
+  # 2024/1/2
+  ## listening
+  ## writing 
+  ## speaking
+  ## reading
+  - will n(意志,决心,毅力,心愿,遗嘱)
+  - along with (与某物或某人一起,除了...还有...)
+  - presage v(预示,预兆,预言,预感) --- n(预示,预兆,预感,预知)
+  - dehydration n(脱水) --- hydration n(水合作用) --- hydrate n/v(补充水分,水合,水合物,水化物)
+  - dispute v(争论,辩论,纠纷) --- n(否认,争论,辩论)
+  - superficial adj(粗浅的,粗略的,表面的,乍看起来的)
+
+  # 2024/1/3
+  ## listening
+  - shouldn't exceed 
+  - en-suite / ˌɒˈˈswiːt / adj(带浴室的)
+  - comfort v(安慰,抚慰) --- n(舒服,舒适)
+  - potential
+  - aid
+  - completion n(完成,结束) --- complete adj(完全的,彻底的,完整的) v(使...完整,完成,结束)
+  - hardly an
+  - bound to (注定会发生)
+  - state / steɪt / n(状态,状况,紧张,政府,国家) v(陈述,说明,规定,公布)--- status / ˈsteɪtəs / n(法律地位,地位,身份,程度,状况)
+  - ruled out (排除,消除,不考虑)
+  - once all
+  ## writing
+  ## speaking
+  ## reading
+
+  # 2024/1/4
+  ## listening
+  ## writing
+  - let alone (更不用说,强调不可能)
+  - entitle v(给予..权利,给..资格,给..命名)
+  - be cautious of (对...小心,对...谨慎)--- cautious / ˈkɔːʃəs / adj(小心的,谨慎的) --- cautions / ˈkɔːʃnz / n(注意事项,警告) v(告诫,使..小心)
+  ## speaking
+  ## reading
+  - erratically adv(不定地,不规律地)
+  - in addition to (除了...之外,还有)
+  - blaze v(闪耀,发亮光,快速移动) --- n(大火,烈火,火焰,展现,灿烂)
+  - open spaces (开放空地)
+  - has been doing (一直在做)
+  - fulfill v(履行,实现,满足)
+  - evacuate v(疏散,撤离,抽出,抽空)
+  - steam v(散发蒸汽,冒热气,蒙上水汽,蒸汽处理)
+  - out of the blue (突然地,意外地)
+  - out of (从...中来,起源于)
+  - rig up (装配,组装,临时凑合)
+  - friendly adj(亲切的,友善的,友好的) --- environmentally-friendly adj(对环境无害的) --- environmental adj(自然环境的,生态环境的,环保的)
+
+  # 2024/1/5
+  ## listening
+  - take place (发生)
+  - purpose
+  - throat
+  - vast array of
+  - fully
+  - form at
+  - endeavor
+  - translucent adj(透明的,半透明的)
+  - bringing n(递送,交付) --- v(带来,带...到某处,提供)
+  - latter / ˈlætə(r) / adj(后者的,末期的,后期的) n(后者) - later / ˈleɪtə(r) / adv(后来,随后) adj(较晚的,以后的,晚期的,末期的)
+  - die away vt(减弱,消失,渐弱,渐息)
+  - concept / ˈkɒnsept /
+  - uniting / juˈnaɪtɪŋ / n(合并) v(使...团结,使..联合) --- standardise v(使...符合标准,使..标准化,使..统一)
+  - onus n(责任,义务,负担)
+  - fall upon (落在,落在身上,袭击)
+  - accepting --- approve of
+  ## writing 
+  ## speaking
+  ## reading
+
+  # 2024/1/6
+  ## listening
+  ## writing 
+  ## speaking
+  ## reading
+  - reclamation n(开垦,收回,再利用) --- reclaim v(利用,回收,改造) n(归还要求)
+  - tap v(发掘,开发,利用)
+  - awash adj(被浪冲打的,与水面齐平的,充斥的)
+  - accuse v(控告,指控,指责) --- decry v(责难,谴责,诽谤)
+  - doubt over (对...的怀疑)
+  - usage of whether
+  - mindset n(观念模式,思维倾向)
+
+  # 2024/1/9
+  ## listening
+  - apostrophe / əˈpɒstrəfi / (省略符号,撇号)
+  - used to do (过去常常) --- get uesd to (习惯于) --- be used to (习惯于,被用来做)
+  - name after (以...命名)
+  ## writing 
+  - manual adj(手动)
+  ## speaking
+  ## reading
+
+  # 2024/1/10
+  ## listening
+  ## writing 
+  - state n(状况,状态,条件) --- states (国家,州)
+  - acknowledgement / əkˈnɒlɪdʒmənt / n(承认,感谢)
+  - photograph n(照片,相片) v(拍照,照相) --- photography n(摄影,摄影术,摄影图片)
+  - lines / laɪnz / --- lions / ˈlaɪənz /
+  - of acknowledge (of knowledge) --- any acknowledge
+  - attractive adj(吸引人的,有吸引力的) == appealing adj(吸引人的,可怜的,恳求的) v(呼吁,恳求,上述)
+  ## speaking
+  ## reading
+  - downplay v(对...轻描淡写,轻视,贬低)
+  - understate v(轻描淡写,避重就轻地说,不充分陈述)
+  - sedentary / ˈsed(ə)ntri / adj(久坐不动的,定居的,静止的)
+  - upright adj(直立的,挺直的) adv(笔直地) n(直柱,立柱,球门柱)
+  - quantity n(量,数目,大量,大批) --- quantify v(量化,测定...数量) --- quantitative adj(数量的,量化的,定量的)
+  - image / ˈɪmɪdʒ / n(形象,印象,图像,意象,比喻) v(作...的像,描绘...的形象)
+  - integrity / ɪnˈteɡrəti / n(正直,诚实,完整,完全)
+  - premature adj(过早的,提早的,早产的,草率的)
+  - destructive adj(破坏性的,毁灭性的)

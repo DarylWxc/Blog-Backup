@@ -27,8 +27,13 @@ conclusion
 It surprise some people when i tell them that they only need to write 13 sentences for 
 ## writing task1
  - first paragraph --- the description of title
+introduction - one sentence,paraphrase the problem
  - second paragraph --- describe the materials
- - third paragraph --- describe the materials
+overview - two sentences,focus on the general tendency/obvious character
+don't mention the exact number,the content is summary,not conclusion
+ - third/fourth paragraph --- describe the materials
+each paragraph for three/four sentences,express what you write in the beginning of each paragraph
+
 ## writing task2
  - 2 sentences---introduction---Your point
  - 5 sentences---first main body paragraph---reason
@@ -63,6 +68,7 @@ the beginning of the sentences must be upper case.
  - The words,phrases and grammatical structures for describing graphs,charts,tables,dragrams and maps
  - By using the right techniques,you can write the kind of essay that examiners like.
 
+
 ## For The Task 2
  - in conclusion
  - in my opinion
@@ -85,3 +91,40 @@ the beginning of the sentences must be upper case.
  - Despite
  - Although
  - I also disagree with ... that
+
+## General Grammar Sentences
+ - There are several/various why/what/where (从句) --- 常用从句
+ - more enjoyable than
+ - sth + done (被动) --- done + sth
+ - are examples of such
+
+## scoring mechanism
+### focus on the title
+1. Discussion
+ - first paragraph: first sentence paraphrase title,second sentence express you point
+ - second/third paragraph: write one side of point for each paragraph
+ - fourth paragraph: echo(回应) the beginning,reiterate(重申) the point 
+2. Problem & Solution or Causes & Effects
+ - first paragraph: first sentence paraphrase title,second sentence talk about how much problems & solutions you will list out
+ - second/third paragraph: each part as one paragraph,express what you talk about in the beginning
+ - fourth paragraph: conclusion(eg: this situation will cause much problem,we should overcome it by special method)
+3. Agree/Disagree
+ - first paragraph:first sentence paraphrase title,second sentence express your point(agree/disagree/partly agree)
+ - second/third paragraph: 
+partly agree: each paragraph for one point
+agree/disagree: one part for advantage,one part for disadvantage
+agree/disagree: one part for why point well,one part for why another well
+ - fourth paragraph:echo(回应) the beginning,reiterate(重申) the point 
+4. notice tip
+ - be care about expressing your points by first person
+
+### connection
+1. use some general expression
+2. Pay attention to logical fluency
+
+### vocabulary
+1. prepare your points
+2. prepare topic vocabulary
+
+### grammar
+1. try to use a variety of sentence patterns
