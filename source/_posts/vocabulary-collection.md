@@ -63,7 +63,6 @@ categories:
  - promise(承诺)
  - establish(建立)
 ## reading
- - destructive(破坏的)
  - attitude(态度，看法)
  - coral(珊瑚)
  - peril(危险)
@@ -127,7 +126,7 @@ categories:
  - knee joints
  - to catch
  - wrote
- - thick
+ - thick / θɪk / adj (厚的,粗的,厚重的) --- thin / θɪn / adj(薄的,细的)
  - deliberately
  - overran
  ## writing
@@ -648,7 +647,7 @@ categories:
  - swindle v/n(诈骗,骗局)
  - devious adj(偏僻的,弯曲的)
  - perspire vt/i(流汗,分泌,使...流汗)
- - respiration n(呼吸,一次呼吸)--respirate v(对...进行人工呼吸)
+ - respiration n(呼吸,一次呼吸) --- respirate v(对...进行人工呼吸) --- respiratory adj(呼吸的)
  - grin v/n(露齿笑,咧嘴笑)---grim adj(严肃的,坚定的)
 
  # 2023/12/04
@@ -675,7 +674,6 @@ categories:
  - determine v(决定,控制)
  - over prep(统治,支配)
  - interrupt v(打断,打扰)
- - efficient adj(高效的)
  - intrigue v/n(激发...兴趣,阴谋,密谋策划)
  - cult n(迷信,崇拜,偶像)
  - abolish / əˈbɒlɪʃ / v(废除,取消)
@@ -1086,7 +1084,7 @@ categories:
   ## speaking
   ## reading
   - downplay v(对...轻描淡写,轻视,贬低)
-  - understate v(轻描淡写,避重就轻地说,不充分陈述)
+  - understate v(轻描淡写,避重就轻地说,不充分陈述) --- overstate v(夸大)
   - sedentary / ˈsed(ə)ntri / adj(久坐不动的,定居的,静止的)
   - upright adj(直立的,挺直的) adv(笔直地) n(直柱,立柱,球门柱)
   - quantity n(量,数目,大量,大批) --- quantify v(量化,测定...数量) --- quantitative adj(数量的,量化的,定量的)
@@ -1094,3 +1092,130 @@ categories:
   - integrity / ɪnˈteɡrəti / n(正直,诚实,完整,完全)
   - premature adj(过早的,提早的,早产的,草率的)
   - destructive adj(破坏性的,毁灭性的)
+
+  # 2024/1/11
+  ## listening
+  - allocation / ˌæləˈkeɪʃ(ə)n / n(配给量,份额,分配,分派)
+  - vulerable / ˈvʌlnərəbl / adj(脆弱的,易受伤的)
+  - recycled / ˌriːˈsaɪk(ə)ld / (这里的d发t的音)
+  ## writing 
+  - over night (一夜之间,很短的时间内)
+  - Skyscraper / ˈskaɪskreɪpə(r) / (摩天大楼)
+  ## speaking
+  ## reading
+
+  # 2024/1/12
+  ## listening
+  ## writing 
+  ## speaking
+  ## reading
+  - prohibitive adj(高得令人望而却步的,限制的,禁止的)
+  - acoustic / əˈkuːstɪk / adj (声音的,听觉的) --- n(音响效果,音质,声学)
+  - varnish n(亮光泽,清漆,虚饰,光泽面) v(装饰,粉饰) ---- vanish / ˈvænɪʃ / v(突然不见,消失,灭绝) n(弱化音)
+  - desertification n(荒漠化,沙漠化)
+  - demystify v(使不再神秘)
+  - roll over (从滚下,翻滚,打滚)
+  - purge v(清洗,排除,清除,催泻) n(清洗,排除,泻药)
+  - literary / ˈlɪtərəri / adj(文学的,文学上的,书面上的) --- literature / ˈlɪtrətʃə(r); ˈlɪtərətʃə / n(文学,文学作品) --- literal adj(字面上的,逐字的,刻板的,简直)
+  - intrinsic adj(内在的,固有的) --- intrinsically adv(本质地,内在地,固有地)
+  - borrowed adj(借来的) --- borrow v(借,借入)
+
+  # 2024/1/15
+  ## listening
+  - efficient / ɪˈfɪʃ(ə)nt / adj(生效的,效率高的) --- / eˈfɪʃ(ə)nt /
+  - circular adj(圆形的,环行的,循环的)
+  ## writing
+  ## speaking
+  ## reading
+  - nomadic adj(游牧的,流浪的)
+  - grouped together adj(分组的,化合的) v(分组,分类-past tense)
+
+  # 2024/1/16
+  ## listening
+  ## writing 
+  ## speaking
+  ## reading
+  - introduction n(初次投入使用,采用,介绍,引见,初次体验)
+  - credible adj(可信的,可靠的,足够好的) --- credit n(信用,信贷,信誉,声望) v(记账,相信,信任)
+  - comb n(梳子,梳理,发卡) v(梳,梳理,认真搜寻) --- combed (past tense)
+  - stage v(上演,演出,主办,举行)
+  - head for (朝...前进)
+  - tick n(钩号,一瞬间,滴答声) v(滴答声,做记号,进展,进步)
+  - punt n(下赌注者,平底船,踢悬空球) v(下赌注)
+  - pack the car (把车装满,准备出发)
+  - rather adv(颇,相当,宁愿,而不是,有点) --- would rather --- rather than
+  - point n(观点,论点,核心问题,目的,意图) v(指向,指,对准,强调) --- pointless adj(毫无意义,毫无目标的,浪费时间)
+
+  # 2024/1/17
+  ## listening
+  - brought / brɔːt / (past tense of bring)
+  ## writing 
+  ## speaking
+  ## reading
+  - denigration / ˌdenɪˈɡreɪʃn / n(诋毁) ---  denigrate / ˈdenɪɡreɪt / v(诋毁,玷污,使..变黑)
+  - stress v(强调,着重,重读,焦虑,紧张)
+  - incendiary adj(纵火的,煽动性的,能引起燃烧的)
+  - bearing n(对...有影响,与...有关,举止,仪态) v(写有,刻有,手持)
+  - resonance n(深沉,洪亮,共鸣,反响)
+  - wash v(令人相信或接受,站不住脚)
+  - wind up (结束,终结,将...带到一个状态或结果)
+  - crowd n(人群,一伙人) v(聚集,群集,靠近)
+  - knack n(诀窍,窍门,熟练技术,技巧)
+  - dwell on (纠结于,长时间思考或谈论)
+  - vigorous adj(精力充沛的,充满活力的,强壮的,强健的)
+  - hot air (大话,空谈,指没有实际内容或价值的言辞)
+
+  # 2024/1/18
+  ## listening
+  ## writing 
+  ## speaking
+  ## reading
+  - roughen v(变粗糙,使粗糙)
+  - get rid of(摆脱,除去,除掉,丢弃) --- remove
+  - ground away (磨损)
+  - install v(安装,设置,正式任命,安顿,安置) --- fit v(安置,安装,放置于)
+  - monotonous adj(单调乏味的,毫无变化的)
+  - dedicated to (致力于,将...用于)
+  - separate adj(单独的,分开的,不同的) v(分离,隔开,区别) --- independent adj(自治的,独立的,自立的)
+
+  # 2024/1/19
+  ## listening
+  ## writing 
+  ## speaking
+  - deduct v(减去,扣除)
+  - inappropriate adj(不恰当的,不合适的)
+  ## reading
+  - trek n(一段路程,长途)
+  - leg n(一段,一程)
+  - metaphor / ˈmetəfə(r) / n(隐喻,暗喻,象征,标志)
+  - hierarchical adj(分等级的,等级制度的,层级的)
+  - seductive adj(吸引人的) --- attractive --- fascinating --- intriguing
+
+  # 2024/1/22
+  ## listening
+  - adjoin v(毗邻,连接)-指建筑,房屋土地等
+  - curve n(曲线,弧线,转弯) v(弯曲)
+  - drifted (drift)
+  - swiftely
+  - profession n(职业,同业)
+  - visible / ˈvɪzəb(ə)l /
+  - waist n(腰,腰围,腰部,腰身)
+  - perfume n(香水,香味)
+  - detract v(转移,贬低) --- detracted v(贬低,诋毁)
+  ## writing  
+  ## speaking
+  ## reading
+  
+  # 2024/1/23
+  ## listening
+  - wouldn't
+  - 've
+  - wirrten
+  ## writing 
+  ## speaking
+  ## reading
+  - lily n(百合,睡莲) --- lilies n(plural form) --- water lily
+  - thrilling adj(令人激动的,惊险的,紧张的) v(非常兴奋,非常激动,颤抖) --- thrill v(兴奋,激动)
+  - bucolic adj(牧歌的,牧羊的,乡下风味的)
+  - daring n(勇气,胆量) adj(敢于冒险的) v(敢于,胆敢)
+  - stand over (待定,推迟,站在...上) --- span v(贯穿,横跨,跨越)
