@@ -1219,3 +1219,41 @@ categories:
   - bucolic adj(牧歌的,牧羊的,乡下风味的)
   - daring n(勇气,胆量) adj(敢于冒险的) v(敢于,胆敢)
   - stand over (待定,推迟,站在...上) --- span v(贯穿,横跨,跨越)
+
+  # 2024/1/25
+  ## listening
+  ## writing
+  ## speaking
+  ## reading
+  - object v(反对,反对说)
+  - approach n(方法,态度,靠近,通道)
+
+  # 2024/1/26
+  ## listening
+  ## writing
+  ## speaking
+  ## reading
+  - boring bits (无聊的东西)
+  - take for granted (把...当成理所当然的)
+  - undistracted adj(集中的,不分心的) --- concentrate v(集中注意力,集中) n(浓缩物)
+  - contradict v(反驳,否认)
+  - inference  n(推断,推理,结论)
+  - premise n(前提,假设,房屋及土地) --- v(以...为基础,以...为前提)
+
+  # 2024/1/27
+  ## listening
+  ## writing
+  - nearby adj/adv(附近的,在附近) --- next to(紧挨着,靠近,在...旁边) --- beside prep/adv(在旁边,在附近)
+  ## speaking
+  ## reading
+  - double as (同时用作其他用途或其他角色)
+  - almost adv(几乎,差不多) --- virtually adv(事实上,几乎)
+
+  # 2024/1/29
+  ## listening
+  ## writing
+  - run off n(径流,流走的东西)
+  - 
+  ## speaking
+  ## reading
+  - scarcity n(不足,缺乏) --- sufficient adj(充足的,足够的)--- enough adj(充足的)

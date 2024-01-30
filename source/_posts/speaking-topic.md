@@ -9,9 +9,6 @@ categories:
 ---
 # introduction
 Hi,my name is daryl.I'm from China.I live in Fuzhou,FuJian province.I have graduated from university for over 3 years.And i am a web developer.l love listening music,playing games,and traval for different country.Even i haven't been to foreign country yet.Now i am preparing for the IELTS exam.I want to get band 6 at least.I wish you can help me with my learning prosess.OK.
-# Education
-
-# Career
 
 # Occupation
 My Occupation is web developer.It's the IT(Information Technology) industry.
@@ -531,6 +528,36 @@ Some people work more to get in touch with people's ideas. They don't need too m
 People prefer that these boring chores can be done by machines so that they have more time to do what they want to do or should do. There are many companies in this area continue to develop new products to benefit people's lives.
  - What do people often do with electronic devices?
 They are often used for things that have specific procedures and don't require cooperation with a human. Because things that require human involvement are often too complex to be solved simply with electronic products.
+
+# Interested in
+## Part2
+ - What it is?
+ - Why you are interested in it?
+In China, the most attractive place for me is undoubtedly my hometown, Quanzhou. It is a beautiful and livable city. In recent years, the population of Quanzhou has increased a lot. Quanzhou is becoming popular all over the country. It is not a big city, but it has the unique charm of a small city. In this city, you don't need to live at a fast pace, people's life is not under very high pressure. You can choose the lifestyle you like best. Everyone can find their meaning in this city. I lived in Quanzhou City until I went to university. There are my family, friends, classmates, and my childhood memories. When I was young, I often ran to the street to eat snacks, Quanzhou has so many kinds of snacks, sometimes I even don't know what to eat. Another advantage is that there are so many scenic areas here, every day on your way to work you can often see some spectacular sights, which often make people on the road feel happy. Walking through the city streets, you can always see people talking or shopping. It's a vibrant city, where people are very friendly and willing to help each other, and where the culture is so deep and there are so many religious types that everyone who comes here doesn't have to worry about fitting in.
+
+# Public Facility
+## Part2
+ - What the facility is?
+ - When it was renovated and improved?
+ - What has been renovated and improved?
+ - And explain how you feel about it.
+With the development of traffic, it is more and more convenient for people to travel. Most commendable is China's high-speed rail system. It has been in use for 20 years, during which it is constantly optimized and improved. Early trains were powered by raw steam and coal, but high-speed trains were powered by electricity. This not only reduces environmental pollution but also increases the speed of movement. In the past few decades, we have felt the convenience brought by the improvement of the transportation system, which has also provided a very big contribution to the economy. Communication and trade between cities became less difficult. In the past, if you wanted to go to another province or even another city, you would have to go to the station early to buy a bus ticket and sit on the bus for a long time waiting for the bus to arrive at the destination. Most people often can not adapt to such a way of travel. However, the emergence of high-speed rail has greatly shortened the time for people to travel between cities. Now we only need to buy tickets online, and then carry our ID card to the station to swipe the code, you can enter and ride. This optimization is a good news for everyone. When you want to go to a city but you are worried about the cost of the air ticket, you can choose to take the bullet train. During the Spring Festival every year, bullet train tickets are very popular. If you don't book your ticket in advance, it will be difficult to get a ticket at the time you want to ride. It can be known from the news that the routes of bullet trains are still expanding continuously. I believe that in the future, we will have more opportunities to visit remote cities by bullet trains. That day cannot be far away.
+
+# Help work or study
+## Part2
+ - What it is?
+ - When and where you do it?
+ - How you do ti?
+ - And explain how you feel about it.
+In my opinion, whether in work or study, we need to control and manage our time. A short break in the middle is very important for everyone. Sometimes when I think, I can't think of the key idea, but when I get out of that state and rest, the idea in my brain will suddenly appear. It's an amazing. This also means that the pause in the middle of the course not only won’t block the long-term goal but also will help. There is a saying in China called 'haste makes waste', which means that when you want to do something, the more you want to finish it quickly, the more easily you will rush and cause the failure of the thing. No matter what you do, you need a process, and no success is purely accidental. In addition, taking short breaks is also good for your mental state. When you are thinking in the long term, your brain is not able to handle the stress, which may affect your ability to come up with solutions to problems. For me, I usually stop for a few minutes, listen to a song, and get some fresh air before I dive back into what I'm doing. Every time I take a break for a while, my work efficiency improves and my mind becomes active. But when I focus on one thing for too long, my performance deteriorates, so I need to take a break to avoid this state.
+
+# Job you don't like
+## Part2
+ - How you know about the job?
+ - Whether the job is difficult or not?
+ - And explain why you would not like to do it.
+When I graduated from high school, I had two months of summer vacation, my parents asked me to work in a factory to earn some money. So I went to a factory that hired temporary workers through my uncle's recommendation and started working. The job is to operate continuously in a specified process to ensure that subsequent procedures are not delayed. It was not difficult for me, and I quickly got used to the pace of work. But as time passed, I began to get impatient, because I thought what I did was not so different from a machine. It made me feel like what I did was worthless and boring. I don't like this kind of work, especially if it needs to be maintained for a long time and it is difficult to get the chance to rest. I think a job should have different things, difficulties, and directions, which can help me to continuously improve my work skills and work efficiency. I prefer thinking about how to solve problems rather than repetitive physical work. With the development of AI, simple jobs without complex rules will sooner or later be replaced by robots. This kind of work is very risky and does not highlight the individual's strengths or characteristics. Each worker only needs to understand part of the program and then continue to execute it. In my opinion, this kind of work is very suitable for computers to do. For example, I developed a program to test software using a computer through a script, and the test is faster and more reliable than a human. Therefore, it is unlikely that I will engage in such work in the future.
+
 
 # Trick
  - Don't be so hard on yourself
