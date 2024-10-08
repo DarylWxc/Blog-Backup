@@ -896,7 +896,7 @@ categories:
   - fret v(烦恼,发愁,形成) --- n(品,烦躁,苦恼)
   - familiar adj(熟悉的,常见的,普通的,非正式的,随和的) --- n(知己,密友)
   - faith n(信任,信心,信念,宗教,忠诚)
-  - anbivalent adj(矛盾的,模棱两可的)
+  - ambivalent adj(矛盾的,模棱两可的)
   - force n(暴力,武力,力,力量)
   - mobilise v(动员,调动,使...流通)
   
@@ -1018,7 +1018,7 @@ categories:
   - in addition to (除了...之外,还有)
   - blaze v(闪耀,发亮光,快速移动) --- n(大火,烈火,火焰,展现,灿烂)
   - open spaces (开放空地)
-  - has been doing (一直在做)
+  - has been doing (一直在做)+
   - fulfill v(履行,实现,满足)
   - evacuate v(疏散,撤离,抽出,抽空)
   - steam v(散发蒸汽,冒热气,蒙上水汽,蒸汽处理)
@@ -1074,13 +1074,13 @@ categories:
 
   # 2024/1/10
   ## listening
-  ## writing 
   - state n(状况,状态,条件) --- states (国家,州)
   - acknowledgement / əkˈnɒlɪdʒmənt / n(承认,感谢)
   - photograph n(照片,相片) v(拍照,照相) --- photography n(摄影,摄影术,摄影图片)
   - lines / laɪnz / --- lions / ˈlaɪənz /
   - of acknowledge (of knowledge) --- any acknowledge
   - attractive adj(吸引人的,有吸引力的) == appealing adj(吸引人的,可怜的,恳求的) v(呼吁,恳求,上述)
+  ## writing 
   ## speaking
   ## reading
   - downplay v(对...轻描淡写,轻视,贬低)
@@ -1253,7 +1253,138 @@ categories:
   ## listening
   ## writing
   - run off n(径流,流走的东西)
-  - 
   ## speaking
   ## reading
   - scarcity n(不足,缺乏) --- sufficient adj(充足的,足够的)--- enough adj(充足的)
+
+  # 2024/2/19
+  ## listening
+  - damp adj(潮湿的) n(湿气,潮气,沼气) v(使...潮湿,限制) --- dam n(堤坝)
+  - scarce adj(缺席的,少见的,稀有的)
+  - lamp n(灯,光源) v(照明,照亮) --- lamb n(小羊羔)
+  - pertain v(适合,关于,适用)
+  ## writing
+  ## speaking
+  ## reading
+  - estimate v(估计,判断,评价) n(估计,估价,看法)
+  - revise v(改变,修正,修订) n(修订)
+  - interpret v(解释,说明) --- interrupt v(打断,打扰,中断)
+  - in charge of (负责,掌管) --- reason v(推理,逻辑思考)
+  - query n(疑问,询问,问号) v(质疑,对...表示疑问)
+  - thorny adj(多刺的,棘手的,麻烦的)
+
+  # 2024/2/22
+  ## listening
+  - take n(看法,镜头,收入量,场景,态度)
+  - mineral /ˈmɪnərəl/ n(矿物质,矿物,矿泉水)
+  - whistle v(吹口哨) n(哨子,口哨声)
+  - meticulous adj(一丝不苟的,注意细节的)
+  - affirm v(断言,证实)
+  ## writing
+  ## speaking
+  ## reading
+  - fit it with (用...配备,为某物配备某种设备或工具)
+
+  # 2024/2/26
+  ## listening
+  - mud n(泥,淤泥)
+  ## writing
+  ## speaking
+  ## reading
+
+  # 2024/2/28
+  ## listening
+  - flood n(洪水,水灾) v(淹没,泛滥)
+  ## writing
+  ## speaking
+  ## reading
+  
+  # 2024/2/29
+  ## listening
+  - rule out (排除,不考虑)
+  - philosophy / fəˈlɒsəfi / n(哲学,哲学体系,思想体系)
+  - psychology / saɪˈkɒlədʒi / n(心理学,心理特点)
+  - physiology / ˌfɪziˈɒlədʒi / n(生理学,生理机能)
+  ## writing
+  ## speaking
+  ## reading
+  - aim at doing sth =! primary goal?
+  - confound v(使...困惑,打倒,使混淆)
+  - wind up (结束,整理,清算)
+  - tend to look cross (看起来很生气)
+  - scowl v(怒视) n(怒容)
+
+  # 2024/3/4
+  ## listening
+  - aprons / ˈeɪprənz / n(围裙,皮圈,裙板)
+  ## writing
+  ## speaking
+  ## reading
+  - synonym  / ˈsɪnənɪm / n(同义词,代名词)
+  - counterparts n(相当的人,相对应的事物)
+  - addressing v(对..讲话,考虑处理问题)
+  - prompt v(促使,导致,鼓励) n(鼓励,催促,提示) adj (迅速的,立刻的)
+  - perceiver (感知者) vary v(不同)
+  - indicator n(标志,迹象,指示灯)
+  - unadorned adj(朴素的) adorn / əˈdɔːn / v(装饰) adorned (被修饰的)
+  - peasant n(农民,粗人)
+  - nasty adj(恶毒的,丑陋的,严重的)
+  - chaste adj(纯洁的,贞洁的,有道德的)
+  - recast v(重铸,彻底改动) n(重铸,重做的事物)
+  - Teutonic adj(德意志民族特点的,条顿的,日耳曼人风格的)
+  - rustic adj(乡村的)
+  - universal adj(普遍的,全体的,通用的) n(普遍原则,通用原理)
+  - social setting (社交场合,社交环境)
+  - identify with (认同,与...产生共鸣)
+  - master v(精通,掌握,控制)
+
+  # 2024/3/5
+  ## listening
+  - draw on (接近,利用,临近)
+  - in spite of (尽管,不管)
+  - disturbing adj(令人不安的,引起恐慌的)
+  ## writing
+  ## speaking
+  ## reading
+  - antiquate v(废弃,使...过时)
+  - presume v(料想,认为,假设,设想) presumable adj(可能有的,可推测的)
+  - fingerprint n(指纹,手印)
+  - worn v(穿,戴) adj(用坏的) - past tense of wear
+  - outset n(开始,开端) onset n(开始,发作) offset v(补偿,抵消) n(抵消物,支距) adj(偏置的,偏离中心的)
+  - ink n(墨水,油墨) v(签订,签署)
+  - in reverse (相反,向后)
+  - chalk n(粉笔) v(用粉笔画,写)
+  - medium n(媒介,方法,手段) adj(中等的,中间的,适中的)
+
+  # 2024/3/11
+  ## listening
+  - dent v(使...产生凹痕,损害,削弱) n(凹痕,削弱)
+  - accessible topic == straightforward concept
+  ## writing
+  ## speaking
+  ## reading 
+
+  # 2024/3/20
+    ## listening
+  - quote / kwəʊt / v(引用,引述) n(引文,引语,报价,开价)
+  - clot / klɒt / n(凝块,黏团) v(凝结成块)
+  - charity / ˈtʃærəti / n(慈善机构)
+  - post v(放入,张贴,公布,发布)
+  - autobiography / ˌɔːtəbaɪˈɒɡrəfi / n(自传)
+  ## writing
+  ## speaking
+  ## reading
+  - confront v(面对,面临,正视,处理) --- confrontation n(对抗,冲突,战斗)
+  
+  # 2024/3/25
+  ## listening
+  - familiarize / fəˈmɪliəraɪz / 
+  - Scotland / ˈskɒtlənd /
+  - mango / ˈmæŋɡəʊ / n(芒果)
+  - upkeep n(维持,维修费)
+  - program n(计划,规划,节目,项目介绍) v(编程,设计,为..安排)
+  - somebody is away (不在)
+  - holiday = vacation regulation = rules
+  ## writing
+  ## speaking
+  ## reading 

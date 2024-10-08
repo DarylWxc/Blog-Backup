@@ -161,3 +161,44 @@ i will take a screenshot about the KDrama Beautiful time and record it according
 23. episode 14 54:42
 24. episode 16 60:53
 
+# Tears of Queen
+1. episode 3-1 4:42
+2. episode 3-1 9:02
+3. episode 3-3 4:00
+4. episode 3-4 0:00
+5. episode 3-6 8:18
+6. episode 4-7 1:00
+7. episode 5-1 0:34
+8. episode 5-2 0:00
+9. episode 5-3 8:30
+10. episode 5-6 6:30
+11. episode 5-6 10:04
+12. episode 5-7 0:00
+13. episode 6-1 4:42
+14. episode 6-2 10:55
+15. episode 6-6 9:44
+16. episode 6-7 0:00
+17. episode 6-7 3:24 + 后记
+18. episode 7-1 3:07
+19. episode 7-1 13:07
+20. episode 7-6 6:00
+21. episode 8-1 2:32
+22. episode 8-7 4:40
+23. episode 9-3 3:32
+24. episode 10-6 6:58 + 后记
+25. episode 11-1 1:32
+26. episode 11-6 10:03
+27. episode 12-2 10:15
+28. episode 12-5 0:00
+29. episode 12-6 5:02
+30. episode 13-3 4:30
+31. episode 13-5 2:40
+32. episode 13-6 3:45
+33. episode 13-7 1:00
+34. episode 14-2 11:30
+35. episode 14-3 0:00
+36. episode 14-4 1:08
+37. episode 14-7 0:57
+38. episode 15-7 0:07
+39. episode 16-1 1:37
+40. episode 16-3 0:47

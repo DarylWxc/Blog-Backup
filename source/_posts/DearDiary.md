@@ -379,3 +379,11 @@ This time is just for vent,no music.Aim to angry.
 
 ### Background Music
 No Music
+
+## 2024/2/18
+***It's a long time for me to write diary here since octorber 30th last time.The only thing worth congradulation is i have got Band 6.5 for last IELTS test.It means i have already passed the threshold for my application of study visa and requirement of SDS way.Next step is to prepare for the proof of tuition payment.But i know that is a big problem for me.However,everything count on God.That's the only hope for human in this world.I can do any of this through him who gives me strength.***
+
+### Background Music
+ - Watching The Sunset(AKI Amano remix)
+ - Our Home
+ - Shadow(Valentin remix)

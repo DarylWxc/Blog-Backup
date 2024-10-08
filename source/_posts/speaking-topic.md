@@ -14,6 +14,7 @@ Hi,my name is daryl.I'm from China.I live in Fuzhou,FuJian province.I have gradu
 My Occupation is web developer.It's the IT(Information Technology) industry.
 The job is about coding the web page.We take design drawing and we achieve it.
 We will talk to the back end and designer for better experience of Customers.
+My MBTI test result is ISTJ character.I think that is a great personality,I'm glad to know you all guys.
 We care about the efficiency and functions of the web page.It is not easy for us to learn improving efficiency of system.We request the data and draw it on the web page.It just like you are one creater and you are creating your masterpiece.That's awesome.we always feel satisfied about the prosess.And the salary is not bad too.Actually i was raised in China,we all accepted the exam oriented education.It cause that we don't know what we want and we real love to do after graduation.We just choose the industry we really familiar to.
 
 # Hobby
@@ -21,11 +22,11 @@ My hobby is Music and Games.My life can't without the Music.I listen to several 
 
 # Hometown
  - Where are you from?
-I am from FuJian province,QuanZhou City.It's a southeast city of China and opposite to TaiWan.In my views,that's a beautiful city which worth you to travel here.
+I am from a small city which location in southeast of China and opposite to TaiWan.You may not see the hustle and bustle of big cities here.Instead,people have a quieter,slower-paced life. 
  - How long have you been living there?
-I have been living here beforn i went to university.I spend my childhood in this city.
+I have been living in my bornplace for over 18 years.This is a place full with my memories and childhood.I really appreciate of this city.
  - Is your hometown a big city or a small city?
-My hometown is just a small city.It don't have enough population just like the other big cities,and Of course its economic.
+My hometown is a small city.It doesn't have the economy and population of a big city,but people here are friendly and happy.
  - Do you like your hometown?
 There is no doubt that i like my born place.I have friends and parents here.Besides,i like its climate and culture.People live here don't need to speed up(accelerate) their pace of life.Work life balance is the best choice for me.
  - Are there anything you dislike about your hometown?
