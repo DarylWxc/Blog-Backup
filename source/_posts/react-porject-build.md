@@ -120,5 +120,40 @@ import { RouterProvider } from "react-router-dom";
 <RouterProvider router={router} />
 
 ```
+## setup login page
+set loginRoute File
+```bash
+const LoginRoutes = [
+  {
+    path: "/login",
+    element: <LoginPage />,
+  },
+  {
+    path: "/404",
+    element: <NotFound />,
+  },
+  { path: "*", element: <NotFound /> },
+];
 
+// set main Route
+const MainRoutes = {
+  path: "/",
+  element: <Layout />,
+  children: [
+    {
+      index: true,
+      element: <a href="/dashboard">Welcome to Home</a>,
+    },
+    {
+      path: "dashboard",
+      element: <Dashboard />,
+    },
+  ],
+};
+
+
+// layout
+import { Outlet } from "react-router-dom";
+<Outlet />  // nested router rendered here
+```
 

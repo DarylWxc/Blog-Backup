@@ -49,14 +49,20 @@ i will take a screenshot about the KDrama Beautiful time and record it according
 10. episode 10 04:44
 11. episode 10 27:57
 12. episode 11 08:52
-13. episode 11 22:47
-14. episode 11 P11-6
-15. episode 11 P11-7
-16. episode 12 P12-1
-17. episode 12 P12-6
-18. episode 13 P13-1
-19. episode 13 P13-5
-20. episode 14
+13. episode 11 23:47
+14. episode 11 46:43
+15. episode 11 57:57
+16. episode 12 3:23
+17. episode 12 47:27
+18. episode 13 3:08
+19. episode 13 39:55
+20. episode 14 06:43
+21. episode 14 25:41
+22. episode 15 48:00
+23. episode 16 22:22
+24. episode 16 29:34
+25. episode 16 59:30
+
 
 ## SoundTrack#1
 1. episode 3 12:41
@@ -202,3 +208,49 @@ i will take a screenshot about the KDrama Beautiful time and record it according
 38. episode 15-7 0:07
 39. episode 16-1 1:37
 40. episode 16-3 0:47
+
+# my demon
+1. episode 1 51:43
+2. episode 2 50:57
+3. episode 3 1:30
+4. episode 3 31:29
+5. episode 3 50:14
+6. episode 4 2:04
+7. episode 4 5:30
+8. episode 4 20:40
+9. episode 4 24:22
+10. episode 4 50:03
+11. episode 4 55:20
+12. episode 5 4:46
+13. episode 5 9:00
+14. episode 5 52:37
+15. episode 6 4:48
+16. episode 6 13:24
+17. episode 6 43:48
+18. episode 8 41:24
+19. episode 8 53:59
+20. episode 8 58:07
+21. episode 9 41:50
+22. episode 10 10:00
+23. episode 10 18:06
+24. episode 11 06:17
+25. episode 11 29:15
+26. episode 12 3:00
+27. episode 12 17:00
+28. episode 12 21:30
+29. episode 12 30:45
+30. episode 12 52:27
+31. episode 12 57:15
+32. episode 13 12:21
+33. episode 14 61:52
+34. episode 15 4:00
+35. episode 15 37:41
+36. episode 15 46:35
+37. episode 15 49:15
+38. episode 15 55:08
+39. episode 15 62:52
+40. episode 16 4:48
+41. episode 16 15:00
+42. episode 16 19:50
+43. episode 16 38:55
+

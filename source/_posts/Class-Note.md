@@ -141,7 +141,18 @@ solid elevator pitch ready
  - Recommendations
  - Honours & Awards
 ## Connecting with SAIT Alumni
-
+## STAR
+ - Situation
+ Describe what happened
+ - Task
+what were you responsible for
+ - Action
+What did you do
+ - Result
+What was the end result
+## Thank you email
+ - Sample "Thank you" emails in My Career Hub
+ 
 ### Software Project Concept
 
 
