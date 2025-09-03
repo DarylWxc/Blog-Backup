@@ -157,3 +157,7 @@ import { Outlet } from "react-router-dom";
 <Outlet />  // nested router rendered here
 ```
 
+## install Tailwind CSS,Chart & React Chart
+## setup the dashboard
+
+
