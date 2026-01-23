@@ -387,3 +387,10 @@ No Music
  - Watching The Sunset(AKI Amano remix)
  - Our Home
  - Shadow(Valentin remix)
+
+
+## 2026/01/23
+***dear diary, It's been a long time I haven't wrote the story of my life. I just recalled the memories of my primary school days. I was really happy at that time. Then I realized I need to record some points of my life. The experience gonna become my precious treasure. I do believe in that.***
+
+### Background Music
+No Music
